@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex CHI-2020_Challenges to Knowledge Sharing"] 1600224471 "CHI-2020_Challenges to Knowledge Sharing.aux" "CHI-2020_Challenges to Knowledge Sharing.bbl" "CHI-2020_Challenges to Knowledge Sharing" 1600227894
+["bibtex CHI-2020_Challenges to Knowledge Sharing"] 1600224471 "CHI-2020_Challenges to Knowledge Sharing.aux" "CHI-2020_Challenges to Knowledge Sharing.bbl" "CHI-2020_Challenges to Knowledge Sharing" 1600267644
   "./ACM-Reference-Format.bst" 1600230690 85225 d624603f315d3675749c8a889ebe6575 ""
-  "CHI-2020_Challenges to Knowledge Sharing.aux" 1600227401 47161 04c420559dd5c4e3f4c29c7726d691b6 "pdflatex"
+  "CHI-2020_Challenges to Knowledge Sharing.aux" 1600267642 47161 04c420559dd5c4e3f4c29c7726d691b6 "pdflatex"
   "Iman_Cognitive_Psychology_Learning.bib" 1600223694 250766 c24f36cc59464d096044015044d005ca ""
   (generated)
-  "CHI-2020_Challenges to Knowledge Sharing.blg"
   "CHI-2020_Challenges to Knowledge Sharing.bbl"
-["pdflatex"] 1600227389 "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.tex" "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.pdf" "CHI-2020_Challenges to Knowledge Sharing" 1600227894
+  "CHI-2020_Challenges to Knowledge Sharing.blg"
+["pdflatex"] 1600267629 "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.tex" "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.pdf" "CHI-2020_Challenges to Knowledge Sharing" 1600267644
   "C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1497089888 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1497089888 2933 9ad527ce78d7c5fa0a642dead095f172 ""
@@ -182,10 +182,10 @@
   "C:/Program Files/MiKTeX 2.9/tex/latex/xstring/xstring.sty" 1543862004 123 a302f2c651a95033260db60e51527ae8 ""
   "C:/Users/onewe/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562512367 4235383 6fd84570567d95fbb6d7c3ddd88248bb ""
   "C:/Users/onewe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562514722 169162 e0695a18bd52dd535f4796b5004be263 ""
-  "CHI-2020_Challenges to Knowledge Sharing.aux" 1600227401 47161 04c420559dd5c4e3f4c29c7726d691b6 "pdflatex"
+  "CHI-2020_Challenges to Knowledge Sharing.aux" 1600267642 47161 04c420559dd5c4e3f4c29c7726d691b6 "pdflatex"
   "CHI-2020_Challenges to Knowledge Sharing.bbl" 1600224471 75746 8bef79e279ddc74ec233a699bef7870d "bibtex CHI-2020_Challenges to Knowledge Sharing"
-  "CHI-2020_Challenges to Knowledge Sharing.out" 1600227401 6105 7e1646dd051a6b6fd99d92678d10a305 "pdflatex"
-  "CHI-2020_Challenges to Knowledge Sharing.tex" 1600227388 94579 84ea003f0d06e68d67fc7c3109863f46 ""
+  "CHI-2020_Challenges to Knowledge Sharing.out" 1600267642 6105 7e1646dd051a6b6fd99d92678d10a305 "pdflatex"
+  "CHI-2020_Challenges to Knowledge Sharing.tex" 1600267627 94570 cff0a00b2c3afd62ba32fb525d8aedc7 ""
   "Pictures/Airtable.png" 1600230692 518362 90b38f2fc11a62afb6b74b8e9ca17f82 ""
   "Pictures/Appendix_Tweets/adeeba kamarulzaman tweet.png" 1600230696 149641 2986058f4803fd236cb11e3a34417b08 ""
   "Pictures/Appendix_Tweets/alice sim tweet.png" 1600230696 479801 d6c579c628a02893083a8dd98b72f496 ""
@@ -244,8 +244,8 @@
   "Pictures/philippe_tweet.png" 1600230692 1110476 57c2bb89b69df84d0919d36477474e7d ""
   "Pictures/retraction watch tweet.png" 1600230692 1111640 8ef1b20bf059ada0102ebac97267eddb ""
   "acmart.cls" 1600230690 98284 198c3f0aa8ddbf5959551dfad089f987 ""
-  "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.aux" 1600227401 47161 04c420559dd5c4e3f4c29c7726d691b6 ""
-  "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.tex" 1600227388 94579 84ea003f0d06e68d67fc7c3109863f46 ""
+  "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.aux" 1600267642 47161 04c420559dd5c4e3f4c29c7726d691b6 ""
+  "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.tex" 1600267627 94570 cff0a00b2c3afd62ba32fb525d8aedc7 ""
   "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/adeeba kamarulzaman tweet.png" 1600230696 149641 2986058f4803fd236cb11e3a34417b08 ""
   "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/alice sim tweet.png" 1600230696 479801 d6c579c628a02893083a8dd98b72f496 ""
   "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/andy slavitt tweet.png" 1600230696 110851 a0819182b74baa9c6910fc0f14268fb6 ""
@@ -300,9 +300,9 @@
   "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/konig tweet.png" 1600230692 214766 284233e27b70c9d1ef767669e9fc2d40 ""
   "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/retraction watch tweet.png" 1600230692 1111640 8ef1b20bf059ada0102ebac97267eddb ""
   (generated)
-  "CHI-2020_Challenges to Knowledge Sharing.out"
-  "CHI-2020_Challenges to Knowledge Sharing.pdf"
-  "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.log"
-  "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.pdf"
-  "CHI-2020_Challenges to Knowledge Sharing.log"
   "CHI-2020_Challenges to Knowledge Sharing.aux"
+  "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.log"
+  "CHI-2020_Challenges to Knowledge Sharing.out"
+  "CHI-2020_Challenges to Knowledge Sharing.log"
+  "c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.pdf"
+  "CHI-2020_Challenges to Knowledge Sharing.pdf"
