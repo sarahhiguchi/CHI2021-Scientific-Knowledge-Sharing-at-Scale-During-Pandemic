@@ -1,0 +1,1810 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{133}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Ackerman, Dachtera, Pipek, and Wulf}{Ackerman
+  et~al\mbox{.}}{2013}]%
+        {ackerman2013sharing}
+\bibfield{author}{\bibinfo{person}{Mark~S Ackerman}, \bibinfo{person}{Juri
+  Dachtera}, \bibinfo{person}{Volkmar Pipek}, {and} \bibinfo{person}{Volker
+  Wulf}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Sharing knowledge and expertise: The CSCW view of
+  knowledge management}.
+\newblock \bibinfo{journal}{\emph{Computer Supported Cooperative Work (CSCW)}}
+  \bibinfo{volume}{22}, \bibinfo{number}{4-6} (\bibinfo{year}{2013}),
+  \bibinfo{pages}{531--573}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Alex~Josephson}{Alex~Josephson}{2020}]%
+        {Josephson2020crisis}
+\bibfield{author}{\bibinfo{person}{Eimear~Lambe Alex~Josephson}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Brand communications in time of crisis}}.
+\newblock
+\urldef\tempurl%
+\url{https://blog.twitter.com/en_us/topics/company/2020/Brand-communications-in-time-of-crisis.html}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Alves, Gericota, Silva, and Alves}{Alves
+  et~al\mbox{.}}{2007}]%
+        {alves2007large}
+\bibfield{author}{\bibinfo{person}{Gustavo~R Alves}, \bibinfo{person}{Manuel~G
+  Gericota}, \bibinfo{person}{Juarez~B Silva}, {and}
+  \bibinfo{person}{Jo{\~a}o~Bosco Alves}.} \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{Large and small scale networks of remote labs: a
+  survey}.
+\newblock \bibinfo{journal}{\emph{Advances on remote laboratories and
+  e-learning experiences}}  \bibinfo{volume}{15} (\bibinfo{year}{2007}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Apuzzo and Kirkpatrick}{Apuzzo and
+  Kirkpatrick}{2020}]%
+        {apuzzo2020covid}
+\bibfield{author}{\bibinfo{person}{Matt Apuzzo} {and} \bibinfo{person}{David~D
+  Kirkpatrick}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Covid-19 changed how the world does science,
+  together}.
+\newblock \bibinfo{journal}{\emph{New York Times}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Atac, Ozalp, Kurnaz, Guler, Inamlik, and
+  Hayran}{Atac et~al\mbox{.}}{2020}]%
+        {atac2020youtube}
+\bibfield{author}{\bibinfo{person}{Omer Atac}, \bibinfo{person}{Yunus Ozalp},
+  \bibinfo{person}{Rifat Kurnaz}, \bibinfo{person}{Osman~Murat Guler},
+  \bibinfo{person}{Meliksah Inamlik}, {and} \bibinfo{person}{Osman Hayran}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{YouTube as an information source during the
+  Coronavirus disease (COVID-19) pandemic}.
+\newblock \bibinfo{journal}{\emph{medRxiv}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Atkins}{Atkins}{2003}]%
+        {atkins2003revolutionizing}
+\bibfield{author}{\bibinfo{person}{Daniel Atkins}.}
+  \bibinfo{year}{2003}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Revolutionizing science and engineering
+  through cyberinfrastructure: Report of the National Science Foundation
+  blue-ribbon advisory panel on cyberinfrastructure}}.
+\newblock \bibinfo{type}{{T}echnical {R}eport}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Balloux}{Balloux}{2020}]%
+        {balloux_2020}
+\bibfield{author}{\bibinfo{person}{Prof~Francois Balloux}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Over the last weeks, a substantial amount of new
+  evidence has become available about immunity to \#SARSCoV2. This information
+  can be difficult to process and integrate. As such I felt it may be helpful
+  to write a thread to summarise the information and provide some
+  context.(1/13)}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/ballouxfrancois/status/1277885591376535553}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Barabasi}{Barabasi}{2020}]%
+        {Barbasi2020twitter}
+\bibfield{author}{\bibinfo{person}{Albert-Laszla Barabasi}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{How much redundant work is taking place because we
+  are not aware what our colleagues have already solved or failed at? Yesterday
+  there were 77 active trials for Hydroxychloroquine - and we know exactly why.
+  Why lock out the science and let tweets drive clinical trials? 2/3}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/barabasi/status/1250500822003322881}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Barrett}{Barrett}{2020}]%
+        {Barrett2010twitter}
+\bibfield{author}{\bibinfo{person}{Jeffrey Barrett}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{I don't know who needs to hear this, but if you're
+  writing a paper about Covid-19, just delete the sentence that states there is
+  a pandemic and provides the current (already out of date) estimate of the
+  number of global cases and deaths. Just. Delete. It.}
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/jcbarret/status/1298574234680283136}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Basnet, Bhattarai, Khanal, Upadhyay, and
+  Baruwal}{Basnet et~al\mbox{.}}{2019}]%
+        {basnet2019quality}
+\bibfield{author}{\bibinfo{person}{Bibhusan Basnet}, \bibinfo{person}{Suraj
+  Bhattarai}, \bibinfo{person}{Amit Khanal}, \bibinfo{person}{Manisha
+  Upadhyay}, {and} \bibinfo{person}{Ashma Baruwal}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Quality of YouTube patient information on prostate
+  cancer screening}. In \bibinfo{booktitle}{\emph{Baylor University Medical
+  Center Proceedings}}, Vol.~\bibinfo{volume}{32}. Taylor \& Francis,
+  \bibinfo{pages}{361--363}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Beel and Gipp}{Beel and Gipp}{2009}]%
+        {beel2009google}
+\bibfield{author}{\bibinfo{person}{J{\"o}ran Beel} {and} \bibinfo{person}{Bela
+  Gipp}.} \bibinfo{year}{2009}\natexlab{}.
+\newblock \showarticletitle{Google Scholar’s ranking algorithm: an
+  introductory overview}. In \bibinfo{booktitle}{\emph{Proceedings of the 12th
+  international conference on scientometrics and informetrics (ISSI’09)}},
+  Vol.~\bibinfo{volume}{1}. Rio de Janeiro (Brazil), \bibinfo{pages}{230--241}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Besan{\c{c}}on, Peiffer-Smadja, Segalas,
+  Jiang, Masuzzo, Smout, Deforet, and Leyrat}{Besan{\c{c}}on
+  et~al\mbox{.}}{2020}]%
+        {besanccon2020open}
+\bibfield{author}{\bibinfo{person}{Lonni Besan{\c{c}}on},
+  \bibinfo{person}{Nathan Peiffer-Smadja}, \bibinfo{person}{Corentin Segalas},
+  \bibinfo{person}{Haiting Jiang}, \bibinfo{person}{Paola Masuzzo},
+  \bibinfo{person}{Cooper~A Smout}, \bibinfo{person}{Maxime Deforet}, {and}
+  \bibinfo{person}{Cl{\'e}mence Leyrat}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Open Science Saves Lives: Lessons from the COVID-19
+  Pandemic}.
+\newblock \bibinfo{journal}{\emph{BioRxiv}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bik}{Bik}{2020}]%
+        {Elisabeth2010twitter}
+\bibfield{author}{\bibinfo{person}{Elisabeth Bik}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Blog post describing some problems with the Gautret
+  et al. paper about Hydroxychloroquine and Azithromycin treatment of COVID-19
+  infectionshttps://t.co/Ez5dnm8hoM}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/MicrobiomDigest/status/1242556354398531584}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Block}{Block}{2020}]%
+        {Block2020twitter}
+\bibfield{author}{\bibinfo{person}{Jonathan Block}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{In that case, what do you propose can be done now to
+  enhance sharing in the research community? I'm seeing a ton of COVID-19
+  pre-print research coming out, though that poses issues of its own because of
+  lack of peer review.}
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/jblockhcare/status/1266505013775474688}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Bonney, Shirk, Phillips, Wiggins, Ballard,
+  Miller-Rushing, and Parrish}{Bonney et~al\mbox{.}}{2014}]%
+        {bonney2014next}
+\bibfield{author}{\bibinfo{person}{Rick Bonney}, \bibinfo{person}{Jennifer~L
+  Shirk}, \bibinfo{person}{Tina~B Phillips}, \bibinfo{person}{Andrea Wiggins},
+  \bibinfo{person}{Heidi~L Ballard}, \bibinfo{person}{Abraham~J
+  Miller-Rushing}, {and} \bibinfo{person}{Julia~K Parrish}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Next steps for citizen science}.
+\newblock \bibinfo{journal}{\emph{Science}} \bibinfo{volume}{343},
+  \bibinfo{number}{6178} (\bibinfo{year}{2014}), \bibinfo{pages}{1436--1437}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Brainard}{Brainard}{2020}]%
+        {Brainard2020drowning}
+\bibfield{author}{\bibinfo{person}{Jeffrey Brainard}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Scientists are drowning in COVID-19 papers.
+  Can new tools keep them afloat?}}
+\newblock
+\urldef\tempurl%
+\url{https://www.sciencemag.org/news/2020/05/scientists-are-drowning-covid-19-papers-can-new-tools-keep-them-afloat}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Brennen, Simon, Howard, and Nielsen}{Brennen
+  et~al\mbox{.}}{2020}]%
+        {brennen2020types}
+\bibfield{author}{\bibinfo{person}{J~Scott Brennen}, \bibinfo{person}{Felix
+  Simon}, \bibinfo{person}{Philip~N Howard}, {and}
+  \bibinfo{person}{Rasmus~Kleis Nielsen}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Types, sources, and claims of Covid-19
+  misinformation}.
+\newblock \bibinfo{journal}{\emph{Reuters Institute}}  \bibinfo{volume}{7}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{3--1}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Carlson, Sims, and Brunner}{Carlson
+  et~al\mbox{.}}{2015}]%
+        {carlson2015cook}
+\bibfield{author}{\bibinfo{person}{Barbara~Svarny Carlson},
+  \bibinfo{person}{Christy Sims}, {and} \bibinfo{person}{Sylvia Brunner}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Cook Inlet Beluga Whale, Delphinapterus leucas,
+  observations near Anchorage, Alaska between 2008 and 2011: Results from a
+  citizen scientist project}.
+\newblock \bibinfo{journal}{\emph{Marine Fisheries Review}}
+  \bibinfo{volume}{77}, \bibinfo{number}{2} (\bibinfo{year}{2015}),
+  \bibinfo{pages}{115--130}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Carr}{Carr}{2020}]%
+        {carr2020twitter}
+\bibfield{author}{\bibinfo{person}{Kareem Carr}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{DURING THE PANDEMIC, we scientists made a lot of
+  science communication mistakes. One big problem is there are at least four
+  possible ways for a scientist to have a conversation on Twitter. Let me
+  explain ... 1/}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/kareem_carr/status/1282108190583410688}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Chen, Allot, and Lu}{Chen
+  et~al\mbox{.}}{2020}]%
+        {chen2020keep}
+\bibfield{author}{\bibinfo{person}{Qingyu Chen}, \bibinfo{person}{Alexis
+  Allot}, {and} \bibinfo{person}{Zhiyong Lu}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Keep up with the latest coronavirus research}.
+\newblock \bibinfo{journal}{\emph{Natur}} \bibinfo{volume}{579},
+  \bibinfo{number}{7798} (\bibinfo{year}{2020}), \bibinfo{pages}{193--193}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Cinelli, Quattrociocchi, Galeazzi, Valensise,
+  Brugnoli, Schmidt, Zola, Zollo, and Scala}{Cinelli et~al\mbox{.}}{2020}]%
+        {cinelli2020covid}
+\bibfield{author}{\bibinfo{person}{Matteo Cinelli}, \bibinfo{person}{Walter
+  Quattrociocchi}, \bibinfo{person}{Alessandro Galeazzi},
+  \bibinfo{person}{Carlo~Michele Valensise}, \bibinfo{person}{Emanuele
+  Brugnoli}, \bibinfo{person}{Ana~Lucia Schmidt}, \bibinfo{person}{Paola Zola},
+  \bibinfo{person}{Fabiana Zollo}, {and} \bibinfo{person}{Antonio Scala}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{The covid-19 social media infodemic}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2003.05004}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Colavizza}{Colavizza}{2020}]%
+        {colavizza2020covid}
+\bibfield{author}{\bibinfo{person}{Giovanni Colavizza}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{COVID-19 research in Wikipedia}.
+\newblock \bibinfo{journal}{\emph{bioRxiv}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Collins, Shiffman, and Rock}{Collins
+  et~al\mbox{.}}{2016}]%
+        {collins2016scientists}
+\bibfield{author}{\bibinfo{person}{Kimberley Collins}, \bibinfo{person}{David
+  Shiffman}, {and} \bibinfo{person}{Jenny Rock}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{How are scientists using social media in the
+  workplace?}
+\newblock \bibinfo{journal}{\emph{PloS one}} \bibinfo{volume}{11},
+  \bibinfo{number}{10} (\bibinfo{year}{2016}), \bibinfo{pages}{e0162680}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Comment}{Comment}{2010}]%
+        {Nature2010twitter}
+\bibfield{author}{\bibinfo{person}{Nature~News\& Comment}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \bibinfo{title}{\@david\_colquhoun \@noahWG Bibliometrics alone
+  clearly do not offer a reliable way to gauge the quality of research.}
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/NatureNews/status/20099932509704192}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Costas and Ferreira}{Costas and
+  Ferreira}{2020}]%
+        {costas2020comparison}
+\bibfield{author}{\bibinfo{person}{Rodrigo Costas} {and}
+  \bibinfo{person}{M{\'a}rcia~R Ferreira}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{A Comparison of the Citing, Publishing, and
+  Tweeting Activity of Scholars on Web of Science}.
+\newblock In \bibinfo{booktitle}{\emph{Evaluative Informetrics: The Art of
+  Metrics-Based Research Assessment}}. \bibinfo{publisher}{Springer},
+  \bibinfo{pages}{261--285}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Costas, Mongeon, Ferreira, van Honk, and
+  Franssen}{Costas et~al\mbox{.}}{2020}]%
+        {costas2020large}
+\bibfield{author}{\bibinfo{person}{Rodrigo Costas}, \bibinfo{person}{Philippe
+  Mongeon}, \bibinfo{person}{M{\'a}rcia~R Ferreira}, \bibinfo{person}{Jeroen
+  van Honk}, {and} \bibinfo{person}{Thomas Franssen}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Large-scale identification and characterization of
+  scholars on Twitter}.
+\newblock \bibinfo{journal}{\emph{Quantitative Science Studies}}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{1--21}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{C{\^o}t{\'e} and Darling}{C{\^o}t{\'e} and
+  Darling}{2018}]%
+        {cote2018scientists}
+\bibfield{author}{\bibinfo{person}{Isabelle~M C{\^o}t{\'e}} {and}
+  \bibinfo{person}{Emily~S Darling}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Scientists on Twitter: Preaching to the choir or
+  singing from the rooftops?}
+\newblock \bibinfo{journal}{\emph{Facets}} \bibinfo{volume}{3},
+  \bibinfo{number}{1} (\bibinfo{year}{2018}), \bibinfo{pages}{682--694}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Council}{Council}{2007}]%
+        {council2007cyberinfrastructure}
+\bibfield{author}{\bibinfo{person}{Cyberinfrastructure Council}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{Cyberinfrastructure vision for 21st century
+  discovery}.
+\newblock \bibinfo{journal}{\emph{Arlington, VA: National Science Foundation).
+  http://www. nsf. gov/pubs/2007/nsf0728/nsf0728. pdf}} (\bibinfo{year}{2007}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Covey}{Covey}{[n.d.]}]%
+        {coveymercy}
+\bibfield{author}{\bibinfo{person}{Stephen Covey}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \showarticletitle{Mercy of C0VID-19 Research}.
+\newblock  (\bibinfo{year}{[n.\,d.]}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Crabbe}{Crabbe}{2012}]%
+        {crabbe2012citizen}
+\bibfield{author}{\bibinfo{person}{M~James~C Crabbe}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{From citizen science to policy development on the
+  coral reefs of Jamaica}.
+\newblock \bibinfo{journal}{\emph{International Journal of Zoology}}
+  \bibinfo{volume}{2012} (\bibinfo{year}{2012}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Cramton}{Cramton}{2001}]%
+        {cramton2001mutual}
+\bibfield{author}{\bibinfo{person}{Catherine~Durnell Cramton}.}
+  \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{The mutual knowledge problem and its consequences
+  for dispersed collaboration}.
+\newblock \bibinfo{journal}{\emph{Organization science}} \bibinfo{volume}{12},
+  \bibinfo{number}{3} (\bibinfo{year}{2001}), \bibinfo{pages}{346--371}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Cuan-Baltazar, Mu{\~n}oz-Perez, Robledo-Vega,
+  P{\'e}rez-Zepeda, and Soto-Vega}{Cuan-Baltazar et~al\mbox{.}}{2020}]%
+        {cuan2020misinformation}
+\bibfield{author}{\bibinfo{person}{Jose~Yunam Cuan-Baltazar},
+  \bibinfo{person}{Maria~Jos{\'e} Mu{\~n}oz-Perez}, \bibinfo{person}{Carolina
+  Robledo-Vega}, \bibinfo{person}{Maria~Fernanda P{\'e}rez-Zepeda}, {and}
+  \bibinfo{person}{Elena Soto-Vega}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Misinformation of COVID-19 on the internet:
+  infodemiology study}.
+\newblock \bibinfo{journal}{\emph{JMIR public health and surveillance}}
+  \bibinfo{volume}{6}, \bibinfo{number}{2} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{e18444}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Cui and Lee}{Cui and Lee}{2020}]%
+        {cui2020coaid}
+\bibfield{author}{\bibinfo{person}{Limeng Cui} {and} \bibinfo{person}{Dongwon
+  Lee}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{CoAID: COVID-19 Healthcare Misinformation Dataset}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2006.00885}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Defila and di~Giulio}{Defila and
+  di~Giulio}{2017}]%
+        {defila2017managing}
+\bibfield{author}{\bibinfo{person}{Rico Defila} {and}
+  \bibinfo{person}{Antonietta di Giulio}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Managing consensus in inter-and transdisciplinary
+  teams: Tasks and expertise}.
+\newblock In \bibinfo{booktitle}{\emph{The Oxford handbook of
+  interdisciplinarity}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Depoux, Martin, Karafillakis, Preet,
+  Wilder-Smith, and Larson}{Depoux et~al\mbox{.}}{2020}]%
+        {depoux2020pandemic}
+\bibfield{author}{\bibinfo{person}{Anneliese Depoux}, \bibinfo{person}{Sam
+  Martin}, \bibinfo{person}{Emilie Karafillakis}, \bibinfo{person}{Raman
+  Preet}, \bibinfo{person}{Annelies Wilder-Smith}, {and} \bibinfo{person}{Heidi
+  Larson}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{The pandemic of social media panic travels faster
+  than the COVID-19 outbreak}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Di~Girolamo and Reynders}{Di~Girolamo and
+  Reynders}{2020}]%
+        {di2020characteristics}
+\bibfield{author}{\bibinfo{person}{Nicola Di~Girolamo} {and}
+  \bibinfo{person}{Reint~Meursinge Reynders}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Characteristics of scientific articles on COVID-19
+  published during the initial 3 months of the pandemic}.
+\newblock \bibinfo{journal}{\emph{Scientometrics}} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{1--18}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Dinis-Oliveira}{Dinis-Oliveira}{2020}]%
+        {dinis2020covid}
+\bibfield{author}{\bibinfo{person}{Ricardo~Jorge Dinis-Oliveira}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{COVID-19 research: pandemic versus
+  “paperdemic”, integrity, values and risks of the “speed science”}.
+\newblock \bibinfo{journal}{\emph{Forensic Sciences Research}}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{1--14}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Doerry, Douglas, Kirkpatrick, and
+  Westerfield}{Doerry et~al\mbox{.}}{1997}]%
+        {doerry1997participatory}
+\bibfield{author}{\bibinfo{person}{Eckehard Doerry}, \bibinfo{person}{Sarah~A
+  Douglas}, \bibinfo{person}{Arthur~E Kirkpatrick}, {and}
+  \bibinfo{person}{Monte Westerfield}.} \bibinfo{year}{1997}\natexlab{}.
+\newblock \showarticletitle{Participatory design for widely-distributed
+  scientific communities}. In \bibinfo{booktitle}{\emph{Proc. of the Third
+  Conference on Human Factors and the Web, Denver, CO}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Eysenbach}{Eysenbach}{2011}]%
+        {eysenbach2011can}
+\bibfield{author}{\bibinfo{person}{Gunther Eysenbach}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Can tweets predict citations? Metrics of social
+  impact based on Twitter and correlation with traditional metrics of
+  scientific impact}.
+\newblock \bibinfo{journal}{\emph{Journal of medical Internet research}}
+  \bibinfo{volume}{13}, \bibinfo{number}{4} (\bibinfo{year}{2011}),
+  \bibinfo{pages}{e123}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Fang and Costas}{Fang and Costas}{2020}]%
+        {fang2020tracking}
+\bibfield{author}{\bibinfo{person}{Zhichao Fang} {and} \bibinfo{person}{Rodrigo
+  Costas}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Tracking the Twitter attention around the research
+  efforts on the COVID-19 pandemic}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2006.05783}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Fox}{Fox}{2020}]%
+        {Fox2020Twitter}
+\bibfield{author}{\bibinfo{person}{Justin Fox}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{A Pandemic Moves Peer Review to Twitter}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.bloomberg.com/opinion/articles/2020-05-05/coronavirus-research-moves-faster-than-medical-journals}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Frodeman, Klein, and Pacheco}{Frodeman
+  et~al\mbox{.}}{2017}]%
+        {frodeman2017oxford}
+\bibfield{author}{\bibinfo{person}{Robert Frodeman},
+  \bibinfo{person}{Julie~Thompson Klein}, {and} \bibinfo{person}{Roberto Carlos
+  Dos~Santos Pacheco}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The Oxford handbook of
+  interdisciplinarity}}.
+\newblock \bibinfo{publisher}{Oxford University Press}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Garrett}{Garrett}{2020}]%
+        {garrett2020covid}
+\bibfield{author}{\bibinfo{person}{Laurie Garrett}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{COVID-19: the medium is the message}.
+\newblock \bibinfo{journal}{\emph{The lancet}} \bibinfo{volume}{395},
+  \bibinfo{number}{10228} (\bibinfo{year}{2020}), \bibinfo{pages}{942--943}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gautret, Lagier, Parola, Meddeb, Mailhe,
+  Doudier, Courjon, Giordanengo, Vieira, Dupont, et~al\mbox{.}}{Gautret
+  et~al\mbox{.}}{2020}]%
+        {gautret2020hydroxychloroquine}
+\bibfield{author}{\bibinfo{person}{Philippe Gautret},
+  \bibinfo{person}{Jean-Christophe Lagier}, \bibinfo{person}{Philippe Parola},
+  \bibinfo{person}{Line Meddeb}, \bibinfo{person}{Morgane Mailhe},
+  \bibinfo{person}{Barbara Doudier}, \bibinfo{person}{Johan Courjon},
+  \bibinfo{person}{Val{\'e}rie Giordanengo}, \bibinfo{person}{Vera~Esteves
+  Vieira}, \bibinfo{person}{Herv{\'e}~Tissot Dupont}, {et~al\mbox{.}}}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Hydroxychloroquine and azithromycin as a treatment
+  of COVID-19: results of an open-label non-randomized clinical trial}.
+\newblock \bibinfo{journal}{\emph{International journal of antimicrobial
+  agents}} (\bibinfo{year}{2020}), \bibinfo{pages}{105949}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Glaser}{Glaser}{1998}]%
+        {glaser1998doing}
+\bibfield{author}{\bibinfo{person}{Barney~G Glaser}.}
+  \bibinfo{year}{1998}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Doing grounded theory: Issues and
+  discussions}}.
+\newblock \bibinfo{publisher}{Sociology Press}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Glasziou, Sanders, and Hoffmann}{Glasziou
+  et~al\mbox{.}}{2020}]%
+        {glasziou2020waste}
+\bibfield{author}{\bibinfo{person}{Paul~P Glasziou}, \bibinfo{person}{Sharon
+  Sanders}, {and} \bibinfo{person}{Tammy Hoffmann}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Waste in covid-19 research}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Greene}{Greene}{2020}]%
+        {Greene2020twitter}
+\bibfield{author}{\bibinfo{person}{Casey Greene}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{What if you're writing a collaborative review paper
+  using manubot, and you use its capabilities to update from external data
+  sources each night? \#AskingForAFriend https://t.co/NheVDeLtxu
+  https://t.co/v7QYaCsGn9}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/GreeneScientist/status/1298575744113750016}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Haghani and Bliemer}{Haghani and
+  Bliemer}{2020}]%
+        {haghani2020covid}
+\bibfield{author}{\bibinfo{person}{Milad Haghani} {and}
+  \bibinfo{person}{Michiel~CJ Bliemer}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Covid-19 pandemic and the unprecedented
+  mobilisation of scholarly efforts prompted by a health crisis: Scientometric
+  comparisons across SARS, MERS and 2019-nCov literature}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2006.00674}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Haghani, Bliemer, Goerlandt, and Li}{Haghani
+  et~al\mbox{.}}{2020}]%
+        {haghani2020scientific}
+\bibfield{author}{\bibinfo{person}{Milad Haghani}, \bibinfo{person}{Michiel~CJ
+  Bliemer}, \bibinfo{person}{Floris Goerlandt}, {and} \bibinfo{person}{Jie
+  Li}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{The scientific literature on Coronaviruses,
+  COVID-19 and its associated safety-related research dimensions: A
+  scientometric analysis and scoping review}.
+\newblock \bibinfo{journal}{\emph{Safety Science}} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{104806}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hall, Vogel, Huang, Serrano, Rice,
+  Tsakraklides, and Fiore}{Hall et~al\mbox{.}}{2018}]%
+        {hall2018science}
+\bibfield{author}{\bibinfo{person}{Kara~L Hall}, \bibinfo{person}{Amanda~L
+  Vogel}, \bibinfo{person}{Grace~C Huang}, \bibinfo{person}{Katrina~J Serrano},
+  \bibinfo{person}{Elise~L Rice}, \bibinfo{person}{Sophia~P Tsakraklides},
+  {and} \bibinfo{person}{Stephen~M Fiore}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{The science of team science: A review of the
+  empirical evidence and research gaps on collaboration in science.}
+\newblock \bibinfo{journal}{\emph{American Psychologist}} \bibinfo{volume}{73},
+  \bibinfo{number}{4} (\bibinfo{year}{2018}), \bibinfo{pages}{532}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hechenbleikner, Samarov, and
+  Lin}{Hechenbleikner et~al\mbox{.}}{2020}]%
+        {hechenbleikner2020data}
+\bibfield{author}{\bibinfo{person}{Elizabeth~M Hechenbleikner},
+  \bibinfo{person}{Daniel~V Samarov}, {and} \bibinfo{person}{Ed Lin}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Data explosion during COVID-19: A call for
+  collaboration with the tech industry \& data scrutiny}.
+\newblock \bibinfo{journal}{\emph{EClinicalMedicine}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hey and Trefethen}{Hey and Trefethen}{2002}]%
+        {hey2002uk}
+\bibfield{author}{\bibinfo{person}{Tony Hey} {and} \bibinfo{person}{Anne~E
+  Trefethen}.} \bibinfo{year}{2002}\natexlab{}.
+\newblock \showarticletitle{The UK e-science core programme and the grid}. In
+  \bibinfo{booktitle}{\emph{International Conference on Computational
+  Science}}. Springer, \bibinfo{pages}{3--21}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Himmelstein, Rubinetti, Slochower, Hu,
+  Malladi, Greene, and Gitter}{Himmelstein et~al\mbox{.}}{2019}]%
+        {himmelstein2019open}
+\bibfield{author}{\bibinfo{person}{Daniel~S Himmelstein},
+  \bibinfo{person}{Vincent Rubinetti}, \bibinfo{person}{David~R Slochower},
+  \bibinfo{person}{Dongbo Hu}, \bibinfo{person}{Venkat~S Malladi},
+  \bibinfo{person}{Casey~S Greene}, {and} \bibinfo{person}{Anthony Gitter}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Open collaborative writing with Manubot}.
+\newblock \bibinfo{journal}{\emph{PLoS computational biology}}
+  \bibinfo{volume}{15}, \bibinfo{number}{6} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{e1007128}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Horbach}{Horbach}{2020}]%
+        {horbach2020pandemic}
+\bibfield{author}{\bibinfo{person}{Serge~PJM Horbach}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Pandemic Publishing: Medical journals strongly
+  speed up their publication process for Covid-19}.
+\newblock \bibinfo{journal}{\emph{Quantitative Science Studies}}
+  \bibinfo{number}{Just Accepted} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{1--16}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Huutoniemi and Rafols}{Huutoniemi and
+  Rafols}{2016}]%
+        {huutoniemi2016interdisciplinarity}
+\bibfield{author}{\bibinfo{person}{Katri Huutoniemi} {and}
+  \bibinfo{person}{Ismael Rafols}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Interdisciplinarity in research evaluation}.
+\newblock  (\bibinfo{year}{2016}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Jirotka, Lee, and Olson}{Jirotka
+  et~al\mbox{.}}{2013}]%
+        {jirotka2013supporting}
+\bibfield{author}{\bibinfo{person}{Marina Jirotka},
+  \bibinfo{person}{Charlotte~P Lee}, {and} \bibinfo{person}{Gary~M Olson}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Supporting scientific collaboration: Methods, tools
+  and concepts}.
+\newblock \bibinfo{journal}{\emph{Computer Supported Cooperative Work (CSCW)}}
+  \bibinfo{volume}{22}, \bibinfo{number}{4-6} (\bibinfo{year}{2013}),
+  \bibinfo{pages}{667--715}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Johansson, Reich, Meyers, and
+  Lipsitch}{Johansson et~al\mbox{.}}{2018}]%
+        {johansson2018preprints}
+\bibfield{author}{\bibinfo{person}{Michael~A Johansson},
+  \bibinfo{person}{Nicholas~G Reich}, \bibinfo{person}{Lauren~Ancel Meyers},
+  {and} \bibinfo{person}{Marc Lipsitch}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Preprints: An underutilized mechanism to accelerate
+  outbreak science}.
+\newblock \bibinfo{journal}{\emph{PLoS medicine}} \bibinfo{volume}{15},
+  \bibinfo{number}{4} (\bibinfo{year}{2018}), \bibinfo{pages}{e1002549}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Johansson and Saderi}{Johansson and
+  Saderi}{2020}]%
+        {johansson2020open}
+\bibfield{author}{\bibinfo{person}{Michael~A Johansson} {and}
+  \bibinfo{person}{Daniela Saderi}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Open peer-review platform for COVID-19 preprints}.
+\newblock \bibinfo{journal}{\emph{Natur}} \bibinfo{volume}{579},
+  \bibinfo{number}{7797} (\bibinfo{year}{2020}), \bibinfo{pages}{29--29}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ke, Ahn, and Sugimoto}{Ke
+  et~al\mbox{.}}{2017}]%
+        {ke2017systematic}
+\bibfield{author}{\bibinfo{person}{Qing Ke}, \bibinfo{person}{Yong-Yeol Ahn},
+  {and} \bibinfo{person}{Cassidy~R Sugimoto}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{A systematic identification and analysis of
+  scientists on Twitter}.
+\newblock \bibinfo{journal}{\emph{PloS one}} \bibinfo{volume}{12},
+  \bibinfo{number}{4} (\bibinfo{year}{2017}), \bibinfo{pages}{e0175368}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kienle and Wessner}{Kienle and
+  Wessner}{2005}]%
+        {kienle2005principles}
+\bibfield{author}{\bibinfo{person}{Andrea Kienle} {and} \bibinfo{person}{Martin
+  Wessner}.} \bibinfo{year}{2005}\natexlab{}.
+\newblock \showarticletitle{Principles for cultivating scientific communities
+  of practice}.
+\newblock In \bibinfo{booktitle}{\emph{Communities and Technologies 2005}}.
+  \bibinfo{publisher}{Springer}, \bibinfo{pages}{283--299}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kieuvongngam, Tan, and Niu}{Kieuvongngam
+  et~al\mbox{.}}{2020}]%
+        {kieuvongngam2020automatic}
+\bibfield{author}{\bibinfo{person}{Virapat Kieuvongngam},
+  \bibinfo{person}{Bowen Tan}, {and} \bibinfo{person}{Yiming Niu}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Automatic Text Summarization of COVID-19 Medical
+  Research Articles using BERT and GPT-2}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2006.01997}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kim, Sparks, Liew, Putman, Berenbaum,
+  Duarte-Garc{\'\i}a, Graef, Korsten, Sattui, Sirotich, et~al\mbox{.}}{Kim
+  et~al\mbox{.}}{2020}]%
+        {kim2020rush}
+\bibfield{author}{\bibinfo{person}{Alfred~HJ Kim}, \bibinfo{person}{Jeffrey~A
+  Sparks}, \bibinfo{person}{Jean~W Liew}, \bibinfo{person}{Michael~S Putman},
+  \bibinfo{person}{Francis Berenbaum}, \bibinfo{person}{Al{\'\i}
+  Duarte-Garc{\'\i}a}, \bibinfo{person}{Elizabeth~R Graef},
+  \bibinfo{person}{Peter Korsten}, \bibinfo{person}{Sebastian~E Sattui},
+  \bibinfo{person}{Emily Sirotich}, {et~al\mbox{.}}}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{A rush to judgment? Rapid reporting and dissemination
+  of results and its consequences regarding the use of hydroxychloroquine for
+  COVID-19}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Konermann}{Konermann}{2020}]%
+        {konermann2020twitter}
+\bibfield{author}{\bibinfo{person}{Silvana Konermann}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Just checked their results. The similarity is
+  spurious. Out of 4 inserts they identify between NCov and SARS, 2 are found
+  in bat coronavirus. Of the remaining two, only one is most similar to HIV,
+  and is so short (6 AA) that the similarity is not higher than chance given
+  database}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/SKonermann/status/1223344537772290048?s=20}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Konig}{Konig}{2020}]%
+        {Konig2020twitter}
+\bibfield{author}{\bibinfo{person}{Maximilian Konig}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Maybe we can come to our senses now at stop this
+  insanity.}
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/MaxKonigMD/status/1268957290935267328}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{K{\"o}nig and Gorman}{K{\"o}nig and
+  Gorman}{2016}]%
+        {konig2016challenge}
+\bibfield{author}{\bibinfo{person}{Thomas K{\"o}nig} {and}
+  \bibinfo{person}{Michael~E Gorman}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{The challenge of funding interdisciplinary
+  research: A look inside public research funding agencies}.
+\newblock  (\bibinfo{year}{2016}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kouzy, Abi~Jaoude, Kraitem, El~Alam, Karam,
+  Adib, Zarka, Traboulsi, Akl, and Baddour}{Kouzy et~al\mbox{.}}{2020}]%
+        {kouzy2020coronavirus}
+\bibfield{author}{\bibinfo{person}{Ramez Kouzy}, \bibinfo{person}{Joseph
+  Abi~Jaoude}, \bibinfo{person}{Afif Kraitem}, \bibinfo{person}{Molly~B
+  El~Alam}, \bibinfo{person}{Basil Karam}, \bibinfo{person}{Elio Adib},
+  \bibinfo{person}{Jabra Zarka}, \bibinfo{person}{Cindy Traboulsi},
+  \bibinfo{person}{Elie~W Akl}, {and} \bibinfo{person}{Khalil Baddour}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Coronavirus goes viral: quantifying the COVID-19
+  misinformation epidemic on Twitter}.
+\newblock \bibinfo{journal}{\emph{Cureus}} \bibinfo{volume}{12},
+  \bibinfo{number}{3} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kraus}{Kraus}{2013}]%
+        {Kraus2013twitter}
+\bibfield{author}{\bibinfo{person}{Joe Kraus}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \bibinfo{title}{Need moar \#altmetrics MT \@ColizScott
+  \@JudithFreedman \@sglassmeyer Citation data does not provide reliable
+  evidence of quality of research.}
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/OAJoe/status/397801608131510272}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kupferschmidt}{Kupferschmidt}{2020}]%
+        {Kupferschmidt2020culture}
+\bibfield{author}{\bibinfo{person}{Kai Kupferschmidt}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{A completely new culture of doing
+  research.’ Coronavirus outbreak changes how scientists communicate}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.sciencemag.org/news/2020/02/completely-new-culture-doing-research-coronavirus-outbreak-changes-how-scientists}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Kuppalli}{Kuppalli}{2020}]%
+        {kuppalli2020twitter}
+\bibfield{author}{\bibinfo{person}{Dr.Krutika Kuppalli}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Why do these ridiculous statements without any
+  scientific data come from old white men who have zero experience working on
+  \#infectiousdiseases outbreaks? Just b/c you are affiliated with a big name
+  university doesn't give you credibility. In fact it causes more problems.
+  https://t.co/k5HtXIKfHU}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/KrutikaKuppalli/status/1287171595941773312}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Lacassin, Dev{\`e}s, Hicks, Ampuero, Bossu,
+  Bruhat, Wibisono, Fallou, Fielding, Gabriel, et~al\mbox{.}}{Lacassin
+  et~al\mbox{.}}{2020}]%
+        {lacassin2020rapid}
+\bibfield{author}{\bibinfo{person}{Robin Lacassin}, \bibinfo{person}{Maud
+  Dev{\`e}s}, \bibinfo{person}{Stephen~P Hicks}, \bibinfo{person}{Jean-Paul
+  Ampuero}, \bibinfo{person}{R{\'e}my Bossu}, \bibinfo{person}{Lucile Bruhat},
+  \bibinfo{person}{Desianto~F Wibisono}, \bibinfo{person}{Laure Fallou},
+  \bibinfo{person}{Eric~J Fielding}, \bibinfo{person}{Alice-Agnes Gabriel},
+  {et~al\mbox{.}}} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Rapid collaborative knowledge building via Twitter
+  after significant geohazard events}.
+\newblock \bibinfo{journal}{\emph{Geoscience Communication}}
+  \bibinfo{volume}{3}, \bibinfo{number}{1} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{129--146}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Langham-Putrow and Riegelman}{Langham-Putrow
+  and Riegelman}{2019}]%
+        {langham2019discovery}
+\bibfield{author}{\bibinfo{person}{Allison Langham-Putrow} {and}
+  \bibinfo{person}{Amy Riegelman}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Discovery and scholarly communication aspects of
+  preprints: Sources for online information}.
+\newblock \bibinfo{journal}{\emph{College \& Research Libraries News}}
+  \bibinfo{volume}{80}, \bibinfo{number}{9} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{506}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Law, Gajos, Wiggins, Gray, and Williams}{Law
+  et~al\mbox{.}}{2017}]%
+        {law2017crowdsourcing}
+\bibfield{author}{\bibinfo{person}{Edith Law}, \bibinfo{person}{Krzysztof~Z
+  Gajos}, \bibinfo{person}{Andrea Wiggins}, \bibinfo{person}{Mary~L Gray},
+  {and} \bibinfo{person}{Alex Williams}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Crowdsourcing as a tool for research: Implications
+  of uncertainty}. In \bibinfo{booktitle}{\emph{Proceedings of the 2017 ACM
+  Conference on Computer Supported Cooperative Work and Social Computing}}.
+  \bibinfo{pages}{1544--1561}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lee}{Lee}{2010}]%
+        {lee2010perspective}
+\bibfield{author}{\bibinfo{person}{Craig~A Lee}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{A perspective on scientific cloud computing}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 19th ACM International Symposium
+  on High Performance Distributed Computing}}. \bibinfo{pages}{451--459}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Li, Bailey, Huynh, and Chan}{Li
+  et~al\mbox{.}}{2020}]%
+        {li2020youtube}
+\bibfield{author}{\bibinfo{person}{Heidi Oi-Yee Li}, \bibinfo{person}{Adrian
+  Bailey}, \bibinfo{person}{David Huynh}, {and} \bibinfo{person}{James Chan}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{YouTube as a source of information on COVID-19: a
+  pandemic of misinformation?}
+\newblock \bibinfo{journal}{\emph{BMJ Global Health}} \bibinfo{volume}{5},
+  \bibinfo{number}{5} (\bibinfo{year}{2020}), \bibinfo{pages}{e002604}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Makles}{Makles}{2020}]%
+        {Makles2020twitter}
+\bibfield{author}{\bibinfo{person}{Gregory Makles}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{NEJM is suddenly reliable again? Have they
+  investigated their latest peer review incredible
+  failure?https://t.co/vFId6bTqRC}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/GregoryMakles/status/1301567570781392900}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Mamas}{Mamas}{2020}]%
+        {Mamas2020twitter}
+\bibfield{author}{\bibinfo{person}{Mamas Mamas}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Pandemic vs paperdemic, the risks of speed science
+  and research ethics as exemplified by \#covid19 https://t.co/0Qm7uzNcqm
+  Sometimes we take at face value the honesty of researchers and veracity of
+  data. Recent events question this \@vass\_vassiliou \@CMichaelGibson
+  \@HeartOTXHeartMD pic.twitter.com/h4V8hjMz1X}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/mmamas1973/status/1272405779996446722}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Manas~Sharma and Kelland}{Manas~Sharma and
+  Kelland}{2020}]%
+        {reuters2020speed}
+\bibfield{author}{\bibinfo{person}{Simon~Scarr Manas~Sharma} {and}
+  \bibinfo{person}{Kate Kelland}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Speed Science The risks of swiftly
+  spreading coronavirus research}}.
+\newblock
+\urldef\tempurl%
+\url{https://graphics.reuters.com/CHINA-HEALTH-RESEARCH/0100B5ES3MG/index.html}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Murray}{Murray}{2020a}]%
+        {Murray2020pandemic}
+\bibfield{author}{\bibinfo{person}{Ellie Murray}.}
+  \bibinfo{year}{2020}\natexlab{a}.
+\newblock \bibinfo{title}{Second, since combating the pandemic is our shared
+  goal, any failure to communicate between scientists \& scholars creates a
+  barrier to achieving that goal, and thus has a cost in human lives lost.4/6}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/EpiEllie/status/1262221352544722945}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Murray}{Murray}{2020b}]%
+        {Murray2020jargon}
+\bibfield{author}{\bibinfo{person}{Ellie Murray}.}
+  \bibinfo{year}{2020}\natexlab{b}.
+\newblock \bibinfo{title}{There's been a fair amount of discussion of the
+  dangers of pre-prints being misinterpreted by the public or journalists. But,
+  we don't talk about a potentially more dangerous issue: scientists \&
+  scholars in other disciplines getting the wrong message b/c they lack key
+  context}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/EpiEllie/status/1262221350250459136}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Murray}{Murray}{2020c}]%
+        {Murray2020twitter}
+\bibfield{author}{\bibinfo{person}{Ellie Murray}.}
+  \bibinfo{year}{2020}\natexlab{c}.
+\newblock \bibinfo{title}{This pandemic has scientists \& scholars from a
+  multitude of fields all working towards a common goal, which is good!But it
+  means when we write our research findings, we can no longer assume shared
+  context or jargon among our readers. A thread of musings 1/6}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/EpiEllie/status/1262221347767402497}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Musser}{Musser}{2019}]%
+        {Musser2019twitter}
+\bibfield{author}{\bibinfo{person}{George Musser}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \bibinfo{booktitle}{}.
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/gmusser/status/1170466414345375746}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Nabrzyski, Schopf, and Weglarz}{Nabrzyski
+  et~al\mbox{.}}{2012}]%
+        {nabrzyski2012grid}
+\bibfield{author}{\bibinfo{person}{Jarek Nabrzyski},
+  \bibinfo{person}{Jennifer~M Schopf}, {and} \bibinfo{person}{Jan Weglarz}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Grid resource management: state of the art
+  and future trends}}. Vol.~\bibinfo{volume}{64}.
+\newblock \bibinfo{publisher}{Springer Science \& Business Media}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Neuman}{Neuman}{2020}]%
+        {NPR2020dies}
+\bibfield{author}{\bibinfo{person}{Scott Neuman}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Man Dies, Woman Hospitalized After Taking
+  Form Of Chloroquine To Prevent COVID-19}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.npr.org/sections/coronavirus-live-updates/2020/03/24/820512107/man-dies-woman-hospitalized-after-taking-form-of-chloroquine-to-prevent-covid-19?t=1594377313159}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Oelen, Jaradeh, Stocker, and Auer}{Oelen
+  et~al\mbox{.}}{2020}]%
+        {oelen2020generate}
+\bibfield{author}{\bibinfo{person}{Allard Oelen},
+  \bibinfo{person}{Mohamad~Yaser Jaradeh}, \bibinfo{person}{Markus Stocker},
+  {and} \bibinfo{person}{S{\"o}ren Auer}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Generate FAIR Literature Surveys with Scholarly
+  Knowledge Graphs}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2006.01747}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{O'Glasser, Jaffe, and Brooks}{O'Glasser
+  et~al\mbox{.}}{2020}]%
+        {o2020tweet}
+\bibfield{author}{\bibinfo{person}{Avital~Y O'Glasser},
+  \bibinfo{person}{Rebecca~C Jaffe}, {and} \bibinfo{person}{Michelle Brooks}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{To tweet or not to tweet, that is the question}. In
+  \bibinfo{booktitle}{\emph{Seminars in Nephrology}},
+  Vol.~\bibinfo{volume}{40}. Elsevier, \bibinfo{pages}{249--263}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{O’Grady, Muldoon, Carr, Wan, Kroon, and
+  O’Hare}{O’Grady et~al\mbox{.}}{2016}]%
+        {o2016intelligent}
+\bibfield{author}{\bibinfo{person}{Michael~J O’Grady}, \bibinfo{person}{Conor
+  Muldoon}, \bibinfo{person}{Dominic Carr}, \bibinfo{person}{Jie Wan},
+  \bibinfo{person}{Barnard Kroon}, {and} \bibinfo{person}{Gregory~MP
+  O’Hare}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Intelligent sensing for citizen science}.
+\newblock \bibinfo{journal}{\emph{Mobile Networks and Applications}}
+  \bibinfo{volume}{21}, \bibinfo{number}{2} (\bibinfo{year}{2016}),
+  \bibinfo{pages}{375--385}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Oyeyemi, Gabarron, and Wynn}{Oyeyemi
+  et~al\mbox{.}}{2014}]%
+        {oyeyemi2014ebola}
+\bibfield{author}{\bibinfo{person}{Sunday~Oluwafemi Oyeyemi},
+  \bibinfo{person}{Elia Gabarron}, {and} \bibinfo{person}{Rolf Wynn}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Ebola, Twitter, and misinformation: a dangerous
+  combination?}
+\newblock \bibinfo{journal}{\emph{Bmj}}  \bibinfo{volume}{349}
+  (\bibinfo{year}{2014}), \bibinfo{pages}{g6178}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Pacheco, Nascimento, and Weber}{Pacheco
+  et~al\mbox{.}}{2018}]%
+        {pacheco2018digital}
+\bibfield{author}{\bibinfo{person}{Roberto~CS Pacheco},
+  \bibinfo{person}{Everton~R Nascimento}, {and} \bibinfo{person}{Rosina~O
+  Weber}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Digital science: cyberinfrastructure, e-Science and
+  citizen science}.
+\newblock In \bibinfo{booktitle}{\emph{Knowledge Management in Digital
+  Change}}. \bibinfo{publisher}{Springer}, \bibinfo{pages}{377--388}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Page, Brin, Motwani, and Winograd}{Page
+  et~al\mbox{.}}{1999}]%
+        {page1999pagerank}
+\bibfield{author}{\bibinfo{person}{Lawrence Page}, \bibinfo{person}{Sergey
+  Brin}, \bibinfo{person}{Rajeev Motwani}, {and} \bibinfo{person}{Terry
+  Winograd}.} \bibinfo{year}{1999}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{The PageRank citation ranking: Bringing
+  order to the web.}}
+\newblock \bibinfo{type}{{T}echnical {R}eport}. \bibinfo{institution}{Stanford
+  InfoLab}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Palayew, Norgaard, Safreed-Harmon, Andersen,
+  Rasmussen, and Lazarus}{Palayew et~al\mbox{.}}{2020}]%
+        {palayew2020pandemic}
+\bibfield{author}{\bibinfo{person}{Adam Palayew}, \bibinfo{person}{Ole
+  Norgaard}, \bibinfo{person}{Kelly Safreed-Harmon}, \bibinfo{person}{Tue~Helms
+  Andersen}, \bibinfo{person}{Lauge~Neimann Rasmussen}, {and}
+  \bibinfo{person}{Jeffrey~V Lazarus}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Pandemic publishing poses a new COVID-19
+  challenge}.
+\newblock \bibinfo{journal}{\emph{Nature Human Behaviour}} \bibinfo{volume}{4},
+  \bibinfo{number}{7} (\bibinfo{year}{2020}), \bibinfo{pages}{666--669}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Papes and Ozimec}{Papes and Ozimec}{2020}]%
+        {papes2020redundancy}
+\bibfield{author}{\bibinfo{person}{Dino Papes} {and} \bibinfo{person}{Elizabeta
+  Ozimec}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Redundancy in reporting on COVID-19}.
+\newblock \bibinfo{journal}{\emph{European Journal of Clinical Investigation}}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{e13257}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Pennycook, McPhetres, Zhang, Lu, and
+  Rand}{Pennycook et~al\mbox{.}}{2020}]%
+        {pennycook2020fighting}
+\bibfield{author}{\bibinfo{person}{Gordon Pennycook}, \bibinfo{person}{Jonathon
+  McPhetres}, \bibinfo{person}{Yunhao Zhang}, \bibinfo{person}{Jackson~G Lu},
+  {and} \bibinfo{person}{David~G Rand}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Fighting COVID-19 misinformation on social media:
+  experimental evidence for a scalable accuracy-nudge intervention}.
+\newblock \bibinfo{journal}{\emph{Psychological science}} \bibinfo{volume}{31},
+  \bibinfo{number}{7} (\bibinfo{year}{2020}), \bibinfo{pages}{770--780}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Pershad, Hangge, Albadawi, and Oklu}{Pershad
+  et~al\mbox{.}}{2018}]%
+        {pershad2018social}
+\bibfield{author}{\bibinfo{person}{Yash Pershad}, \bibinfo{person}{Patrick~T
+  Hangge}, \bibinfo{person}{Hassan Albadawi}, {and} \bibinfo{person}{Rahmi
+  Oklu}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Social medicine: Twitter in healthcare}.
+\newblock \bibinfo{journal}{\emph{Journal of clinical medicine}}
+  \bibinfo{volume}{7}, \bibinfo{number}{6} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{121}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Philippe}{Philippe}{2020}]%
+        {Philippe2020twitter}
+\bibfield{author}{\bibinfo{person}{Philippe Philippe}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{\#hydroxychloroquine inutile... again \& again \&
+  again !!!}
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/Philipp31561573/status/1271553622007058433}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Piller}{Piller}{2020}]%
+        {piller2020s}
+\bibfield{author}{\bibinfo{person}{C Piller}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Who’s to blame? These three scientists are at the
+  heart of the Surgisphere COVID-19 scandal}.
+\newblock \bibinfo{journal}{\emph{Science Magazine}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Pohl, Truffer, and Hirsch~Hadorn}{Pohl
+  et~al\mbox{.}}{2017}]%
+        {pohl2017addressing}
+\bibfield{author}{\bibinfo{person}{Christian Pohl}, \bibinfo{person}{Bernhard
+  Truffer}, {and} \bibinfo{person}{Gertrude Hirsch~Hadorn}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Addressing wicked problems through
+  transdisciplinary research}.
+\newblock \bibinfo{journal}{\emph{The Oxford handbook of interdisciplinarity}}
+  (\bibinfo{year}{2017}), \bibinfo{pages}{319--331}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Poynder}{Poynder}{2020}]%
+        {poynder2020twitter}
+\bibfield{author}{\bibinfo{person}{Richard Poynder}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{"The number of publications related to COVID‐19 is
+  growing exponentially. Many articles are being hastily and non-critically
+  published, contain repetitive or inaccurate information, illogical and
+  non-evidence based recommendations, and are highly biased."
+  https://t.co/7kkYLVIRcU}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/RickyPo/status/1257180666669731847}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{PTPeters}{PTPeters}{2020}]%
+        {Peters2020twitter}
+\bibfield{author}{\bibinfo{person}{PTPeters}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{The word limit, and fleeting nature of Tweets, makes
+  this formate best for a simple IT KSM: Knowledge Sharing Network. Fortunately
+  Twitter is not good format for debate: as it is wasted of anyway. Do not
+  argue w people on Covid - or ANYTHING for that matter.}
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/Paulp6363/status/1245801892917194752}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Rasmussen}{Rasmussen}{2020}]%
+        {Rasmussen2020twitter}
+\bibfield{author}{\bibinfo{person}{Dr.~Angela Rasmussen}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{I think the real problem has been communication
+  across disciplines. The terminology is confusing and means different things
+  to different people, which is why I agree with @SaskiaPopescu that we need to
+  reconsider the language we use to discuss "airborne" transmission. 2/2}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/angie_rasmussen/status/1282421963122634752}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Resnik, Goodman, and Moran}{Resnik
+  et~al\mbox{.}}{2020}]%
+        {resnik2020developing}
+\bibfield{author}{\bibinfo{person}{Philip Resnik}, \bibinfo{person}{Katherine~E
+  Goodman}, {and} \bibinfo{person}{Mike Moran}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Developing a Curated Topic Model for COVID-19
+  Medical Research Literature}.
+\newblock  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rio}{Rio}{2020}]%
+        {Carlos2020twitter}
+\bibfield{author}{\bibinfo{person}{Carlos~del Rio}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Hydroxychloroquine and azithromycin as a treatment of
+  COVID-19: results of an open-label non-randomized clinical trial - Time to
+  take this study down \@sciencedirect it was wrong topublish it, too much
+  damage already. Take this study down! https://t.co/tDjaKagtKb}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/CarlosdelRio7/status/1248081364215308292}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Roemer and Borchardt}{Roemer and
+  Borchardt}{2012}]%
+        {roemer2012bibliometrics}
+\bibfield{author}{\bibinfo{person}{Robin~Chin Roemer} {and}
+  \bibinfo{person}{Rachel Borchardt}.} \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{From bibliometrics to altmetrics: A changing
+  scholarly landscape}.
+\newblock \bibinfo{journal}{\emph{College \& Research Libraries News}}
+  \bibinfo{volume}{73}, \bibinfo{number}{10} (\bibinfo{year}{2012}),
+  \bibinfo{pages}{596--600}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Roitero, Soprano, Portelli, Spina, Della~Mea,
+  Serra, Mizzaro, and Demartini}{Roitero et~al\mbox{.}}{2020}]%
+        {roitero2020covid}
+\bibfield{author}{\bibinfo{person}{Kevin Roitero}, \bibinfo{person}{Michael
+  Soprano}, \bibinfo{person}{Beatrice Portelli}, \bibinfo{person}{Damiano
+  Spina}, \bibinfo{person}{Vincenzo Della~Mea}, \bibinfo{person}{Giuseppe
+  Serra}, \bibinfo{person}{Stefano Mizzaro}, {and} \bibinfo{person}{Gianluca
+  Demartini}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{The COVID-19 Infodemic: Can the Crowd Judge Recent
+  Misinformation Objectively?}
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2008.05701}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rosenberg, Syed, and Rezaie}{Rosenberg
+  et~al\mbox{.}}{2020}]%
+        {rosenberg2020twitter}
+\bibfield{author}{\bibinfo{person}{Hans Rosenberg}, \bibinfo{person}{Shahbaz
+  Syed}, {and} \bibinfo{person}{Salim Rezaie}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{The Twitter pandemic: The critical role of Twitter
+  in the dissemination of medical information and misinformation during the
+  COVID-19 pandemic}.
+\newblock \bibinfo{journal}{\emph{Canadian Journal of Emergency Medicine}}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{1--4}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ruocco, Daraio, Folli, and Leonetti}{Ruocco
+  et~al\mbox{.}}{2017}]%
+        {ruocco2017bibliometric}
+\bibfield{author}{\bibinfo{person}{Giancarlo Ruocco}, \bibinfo{person}{Cinzia
+  Daraio}, \bibinfo{person}{Viola Folli}, {and} \bibinfo{person}{Marco
+  Leonetti}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Bibliometric indicators: the origin of their
+  log-normal distribution and why they are not a reliable proxy for an
+  individual scholar’s talent}.
+\newblock \bibinfo{journal}{\emph{Palgrave Communications}}
+  \bibinfo{volume}{3}, \bibinfo{number}{1} (\bibinfo{year}{2017}),
+  \bibinfo{pages}{1--8}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Santoso, Pranata, Wibowo, Al-Farabi, Huang,
+  and Antariksa}{Santoso et~al\mbox{.}}{2020}]%
+        {santoso2020cardiac}
+\bibfield{author}{\bibinfo{person}{Anwar Santoso}, \bibinfo{person}{Raymond
+  Pranata}, \bibinfo{person}{Arief Wibowo}, \bibinfo{person}{Makhyan~Jibril
+  Al-Farabi}, \bibinfo{person}{Ian Huang}, {and} \bibinfo{person}{Budhi
+  Antariksa}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Cardiac injury is associated with mortality and
+  critically ill pneumonia in COVID-19: a meta-analysis}.
+\newblock \bibinfo{journal}{\emph{The American Journal of Emergency Medicine}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Schwab and Held}{Schwab and Held}{2020}]%
+        {schwab2020science}
+\bibfield{author}{\bibinfo{person}{Simon Schwab} {and}
+  \bibinfo{person}{Leonhard Held}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Science after Covid-19 Faster, better, stronger?}
+\newblock \bibinfo{journal}{\emph{Significance}} \bibinfo{volume}{17},
+  \bibinfo{number}{4} (\bibinfo{year}{2020}), \bibinfo{pages}{8--9}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Servick and Enserink}{Servick and
+  Enserink}{2020}]%
+        {servick2020pandemic}
+\bibfield{author}{\bibinfo{person}{Kelly Servick} {and} \bibinfo{person}{Martin
+  Enserink}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{The pandemic's first major research scandal erupts}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Singh, Bansal, Bode, Budak, Chi, Kawintiranon,
+  Padden, Vanarsdall, Vraga, and Wang}{Singh et~al\mbox{.}}{2020}]%
+        {singh2020first}
+\bibfield{author}{\bibinfo{person}{Lisa Singh}, \bibinfo{person}{Shweta
+  Bansal}, \bibinfo{person}{Leticia Bode}, \bibinfo{person}{Ceren Budak},
+  \bibinfo{person}{Guangqing Chi}, \bibinfo{person}{Kornraphop Kawintiranon},
+  \bibinfo{person}{Colton Padden}, \bibinfo{person}{Rebecca Vanarsdall},
+  \bibinfo{person}{Emily Vraga}, {and} \bibinfo{person}{Yanchen Wang}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{A first look at COVID-19 information and
+  misinformation sharing on Twitter}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2003.13907}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Stoneman and Hiremath}{Stoneman and
+  Hiremath}{2020}]%
+        {stoneman2020twitter}
+\bibfield{author}{\bibinfo{person}{Sinead Stoneman} {and}
+  \bibinfo{person}{Swapnil Hiremath}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Twitter-based journal clubs: bringing critical
+  appraisal to the social table}. In \bibinfo{booktitle}{\emph{Seminars in
+  nephrology}}, Vol.~\bibinfo{volume}{40}. Elsevier, \bibinfo{pages}{264--272}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Su, Xu, Yu, Siddique, Barezi, and Fung}{Su
+  et~al\mbox{.}}{2020}]%
+        {su2020caire}
+\bibfield{author}{\bibinfo{person}{Dan Su}, \bibinfo{person}{Yan Xu},
+  \bibinfo{person}{Tiezheng Yu}, \bibinfo{person}{Farhad~Bin Siddique},
+  \bibinfo{person}{Elham~J Barezi}, {and} \bibinfo{person}{Pascale Fung}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{CAiRE-COVID: A Question Answering and
+  Multi-Document Summarization System for COVID-19 Research}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2005.03975}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tilburg}{Tilburg}{2020}]%
+        {Tilburg2020twitter}
+\bibfield{author}{\bibinfo{person}{Miranda~van Tilburg}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Sad to notice the pediatric research agenda around
+  \#COVID19 excludes psychosocial aspects of the \#pandemic and \#lockdown. We
+  cannot view health as purely biologic. Currently the approach to this virus
+  is behavioral (eg, social distancing). https://t.co/UK6KVzkfJk}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/DrvanTilburg/status/1261973218522533888}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Timming}{Timming}{2020}]%
+        {timming_2020}
+\bibfield{author}{\bibinfo{person}{Andrew~R. Timming}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Why the h-index is a poor performance metric: I could
+  write a bunch of egregiously bad papers and everyone would cite them by
+  pointing out all the flaws. Plus, it punishes single authored papers and
+  artificially inflates the worth of co-authored ones. Am I wrong?}
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/timminglab/status/1258571672522637312}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Torres-Salinas, Robinson-Garcia, and
+  Castillo-Valdivieso}{Torres-Salinas et~al\mbox{.}}{2020}]%
+        {torres2020open}
+\bibfield{author}{\bibinfo{person}{Daniel Torres-Salinas},
+  \bibinfo{person}{Nicolas Robinson-Garcia}, {and} \bibinfo{person}{Pedro~A
+  Castillo-Valdivieso}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Open Access and Altmetrics in the pandemic age:
+  Forescast analysis on COVID-19 related literature}.
+\newblock \bibinfo{journal}{\emph{BioRxiv}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ug}{Ug}{2020}]%
+        {Pharma2020twitter}
+\bibfield{author}{\bibinfo{person}{Pharma~Society Ug}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Response to Claims of a COVID-19 Cure by Biobert
+  Research group ``Mr. Kijumbi, let the clinical trials and experiments on your
+  drugs talk for you not the YouTube videos'' Full statement:
+  https://t.co/TG614oUETr\#COVID19UG \#StaySafeUG}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/PharmacistsUg/status/1248944049559670785}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Van~Eperen and Marincola}{Van~Eperen and
+  Marincola}{2011}]%
+        {van2011scientists}
+\bibfield{author}{\bibinfo{person}{Laura Van~Eperen} {and}
+  \bibinfo{person}{Francesco~M Marincola}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \bibinfo{title}{How scientists use social media to communicate their
+  research}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Vantarakis, Chatziprodromidou, and
+  Apostolou}{Vantarakis et~al\mbox{.}}{2020}]%
+        {vantarakis2020covid}
+\bibfield{author}{\bibinfo{person}{Apostolos Vantarakis},
+  \bibinfo{person}{Ioanna Chatziprodromidou}, {and} \bibinfo{person}{Thomas
+  Apostolou}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{COVID-19 and Environmental factors. A
+  PRISMA-compliant systematic review}.
+\newblock \bibinfo{journal}{\emph{medRxiv}} (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Walker}{Walker}{2012}]%
+        {walker2012national}
+\bibfield{author}{\bibinfo{person}{Mark Walker}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{The'national'in international and transnational
+  science}.
+\newblock \bibinfo{journal}{\emph{The British Journal for the History of
+  Science}} (\bibinfo{year}{2012}), \bibinfo{pages}{359--376}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Liu, Chauhan, Guan, and Han}{Wang
+  et~al\mbox{.}}{2020a}]%
+        {wang2020automatic}
+\bibfield{author}{\bibinfo{person}{Xuan Wang}, \bibinfo{person}{Weili Liu},
+  \bibinfo{person}{Aabhas Chauhan}, \bibinfo{person}{Yingjun Guan}, {and}
+  \bibinfo{person}{Jiawei Han}.} \bibinfo{year}{2020}\natexlab{a}.
+\newblock \showarticletitle{Automatic Textual Evidence Mining in COVID-19
+  Literature}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2004.12563}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Xu, Hu, Xia, Sun, Liu, Xie, Zhang,
+  Jiang, and Lu}{Wang et~al\mbox{.}}{2020b}]%
+        {wang2020sars}
+\bibfield{author}{\bibinfo{person}{Xinling Wang}, \bibinfo{person}{Wei Xu},
+  \bibinfo{person}{Gaowei Hu}, \bibinfo{person}{Shuai Xia},
+  \bibinfo{person}{Zhiping Sun}, \bibinfo{person}{Zezhong Liu},
+  \bibinfo{person}{Youhua Xie}, \bibinfo{person}{Rong Zhang},
+  \bibinfo{person}{Shibo Jiang}, {and} \bibinfo{person}{Lu Lu}.}
+  \bibinfo{year}{2020}\natexlab{b}.
+\newblock \showarticletitle{SARS-CoV-2 infects T lymphocytes through its spike
+  protein-mediated membrane fusion}.
+\newblock \bibinfo{journal}{\emph{Cellular \& Molecular Immunology}}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{1--3}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Watch}{Watch}{2020}]%
+        {Retract2010twitter}
+\bibfield{author}{\bibinfo{person}{Retraction Watch}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Hydroxychlorine-COVID-19 study did not meet
+  publishing society's "expected standard" https://t.co/LSKO0GnSo9
+  pic.twitter.com/MR0dWs0lAn}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/RetractionWatch/status/1247183601944408065}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Wenger, McDermott, and Snyder}{Wenger
+  et~al\mbox{.}}{2002}]%
+        {wenger2002cultivating}
+\bibfield{author}{\bibinfo{person}{Etienne Wenger},
+  \bibinfo{person}{Richard~Arnold McDermott}, {and} \bibinfo{person}{William
+  Snyder}.} \bibinfo{year}{2002}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Cultivating communities of practice: A
+  guide to managing knowledge}}.
+\newblock \bibinfo{publisher}{Harvard Business Press}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{WHO}{WHO}{[n.d.]}]%
+        {WHOmyth}
+\bibfield{author}{\bibinfo{person}{WHO}.} \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{WHO:Mythbuster}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{WHO}{WHO}{2020a}]%
+        {WHO2020Data}
+\bibfield{author}{\bibinfo{person}{WHO}.} \bibinfo{year}{2020}\natexlab{a}.
+\newblock \bibinfo{booktitle}{\emph{COVID-19 Global literature on coronavirus
+  disease}}.
+\newblock
+\urldef\tempurl%
+\url{https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{WHO}{WHO}{2020b}]%
+        {WHO2020Munich}
+\bibfield{author}{\bibinfo{person}{WHO}.} \bibinfo{year}{2020}\natexlab{b}.
+\newblock \bibinfo{booktitle}{\emph{Munich Security Conference}}.
+\newblock
+\urldef\tempurl%
+\url{https://www.who.int/dg/speeches/detail/munich-security-conference}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Wilford, Osann, and Wenzel}{Wilford
+  et~al\mbox{.}}{2018}]%
+        {wilford2018social}
+\bibfield{author}{\bibinfo{person}{Justin Wilford}, \bibinfo{person}{Kathryn
+  Osann}, {and} \bibinfo{person}{Lari Wenzel}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Social Media Use Among Parents of Young Childhood
+  Cancer Survivors.}
+\newblock \bibinfo{journal}{\emph{Journal of Oncology Navigation \&
+  Survivorship}} \bibinfo{volume}{9}, \bibinfo{number}{1}
+  (\bibinfo{year}{2018}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wilkinson, Dumontier, Aalbersberg, Appleton,
+  Axton, Baak, Blomberg, Boiten, da~Silva~Santos, Bourne,
+  et~al\mbox{.}}{Wilkinson et~al\mbox{.}}{2016}]%
+        {wilkinson2016fair}
+\bibfield{author}{\bibinfo{person}{Mark~D Wilkinson}, \bibinfo{person}{Michel
+  Dumontier}, \bibinfo{person}{IJsbrand~Jan Aalbersberg},
+  \bibinfo{person}{Gabrielle Appleton}, \bibinfo{person}{Myles Axton},
+  \bibinfo{person}{Arie Baak}, \bibinfo{person}{Niklas Blomberg},
+  \bibinfo{person}{Jan-Willem Boiten}, \bibinfo{person}{Luiz~Bonino da
+  Silva~Santos}, \bibinfo{person}{Philip~E Bourne}, {et~al\mbox{.}}}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{The FAIR Guiding Principles for scientific data
+  management and stewardship}.
+\newblock \bibinfo{journal}{\emph{Scientific data}} \bibinfo{volume}{3},
+  \bibinfo{number}{1} (\bibinfo{year}{2016}), \bibinfo{pages}{1--9}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Willigh~gen}{Willigh~gen}{2018}]%
+        {Will2018twitter}
+\bibfield{author}{\bibinfo{person}{Egon Willigh~gen}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \bibinfo{title}{I am really frustrated with the fact that our
+  publications are static objects... why can't we improve them over time? Fix a
+  typo here, some character casing there... just the typography, not the
+  content... sigh \#onlyHuman}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/egonwillighagen/status/972908516901089280}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Www.mcmasterhealthforum.org}{Www.mcmasterhealthforum.org}{[n.d.]}]%
+        {www.mcmasterhealthforum.org}
+\bibfield{author}{\bibinfo{person}{Www.mcmasterhealthforum.org}.}
+  \bibinfo{year}{[n.d.]}\natexlab{}.
+\newblock \bibinfo{title}{COVID-END}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://www.mcmasterforum.org/networks/covid-end}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Xiao, Li, Liu, Sang, Gao, and Gao}{Xiao
+  et~al\mbox{.}}{2020}]%
+        {xiao2020hiv}
+\bibfield{author}{\bibinfo{person}{Chuan Xiao}, \bibinfo{person}{Xiaojun Li},
+  \bibinfo{person}{Shuying Liu}, \bibinfo{person}{Yongming Sang},
+  \bibinfo{person}{Shou-Jiang Gao}, {and} \bibinfo{person}{Feng Gao}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{HIV-1 did not contribute to the 2019-nCoV genome}.
+\newblock \bibinfo{journal}{\emph{Emerging microbes \& infections}}
+  \bibinfo{volume}{9}, \bibinfo{number}{1} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{378--381}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zaitsev}{Zaitsev}{2020}]%
+        {zaitsev2020twitter}
+\bibfield{author}{\bibinfo{person}{Dmitri Zaitsev}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{"When this pandemic subsides we could use this
+  situation as a motive to reduce redundancy in publication, to modernize the
+  way data is presented, and to avoid the same issues when the new pandemic
+  arrives."- Any details about how that would happen? :)}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://twitter.com/Dmitri145/status/1258350943927537664}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Zarocostas}{Zarocostas}{2020}]%
+        {zarocostas2020fight}
+\bibfield{author}{\bibinfo{person}{John Zarocostas}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{How to fight an infodemic}.
+\newblock \bibinfo{journal}{\emph{The Lancet}} \bibinfo{volume}{395},
+  \bibinfo{number}{10225} (\bibinfo{year}{2020}), \bibinfo{pages}{676}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zhang, Gupta, Nogueira, Cho, and Lin}{Zhang
+  et~al\mbox{.}}{2020}]%
+        {zhang2020rapidly}
+\bibfield{author}{\bibinfo{person}{Edwin Zhang}, \bibinfo{person}{Nikhil
+  Gupta}, \bibinfo{person}{Rodrigo Nogueira}, \bibinfo{person}{Kyunghyun Cho},
+  {and} \bibinfo{person}{Jimmy Lin}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Rapidly deploying a neural search engine for the
+  covid-19 open research dataset: Preliminary thoughts and lessons learned}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2004.05125}}
+  (\bibinfo{year}{2020}).
+\newblock
+
+
+\end{thebibliography}
