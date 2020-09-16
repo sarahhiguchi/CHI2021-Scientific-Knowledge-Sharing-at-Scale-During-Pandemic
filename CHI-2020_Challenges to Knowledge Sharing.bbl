@@ -1162,6 +1162,19 @@
 \newblock
 
 
+\bibitem[\protect\citeauthoryear{Oyeyemi, Gabarron, and Wynn}{Oyeyemi
+  et~al\mbox{.}}{2014}]%
+        {oyeyemi2014ebola}
+\bibfield{author}{\bibinfo{person}{Sunday~Oluwafemi Oyeyemi},
+  \bibinfo{person}{Elia Gabarron}, {and} \bibinfo{person}{Rolf Wynn}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Ebola, Twitter, and misinformation: a dangerous
+  combination?}
+\newblock \bibinfo{journal}{\emph{Bmj}}  \bibinfo{volume}{349}
+  (\bibinfo{year}{2014}), \bibinfo{pages}{g6178}.
+\newblock
+
+
 \bibitem[\protect\citeauthoryear{O’Grady, Muldoon, Carr, Wan, Kroon, and
   O’Hare}{O’Grady et~al\mbox{.}}{2016}]%
         {o2016intelligent}
@@ -1173,19 +1186,6 @@
 \newblock \bibinfo{journal}{\emph{Mobile Networks and Applications}}
   \bibinfo{volume}{21}, \bibinfo{number}{2} (\bibinfo{year}{2016}),
   \bibinfo{pages}{375--385}.
-\newblock
-
-
-\bibitem[\protect\citeauthoryear{Oyeyemi, Gabarron, and Wynn}{Oyeyemi
-  et~al\mbox{.}}{2014}]%
-        {oyeyemi2014ebola}
-\bibfield{author}{\bibinfo{person}{Sunday~Oluwafemi Oyeyemi},
-  \bibinfo{person}{Elia Gabarron}, {and} \bibinfo{person}{Rolf Wynn}.}
-  \bibinfo{year}{2014}\natexlab{}.
-\newblock \showarticletitle{Ebola, Twitter, and misinformation: a dangerous
-  combination?}
-\newblock \bibinfo{journal}{\emph{Bmj}}  \bibinfo{volume}{349}
-  (\bibinfo{year}{2014}), \bibinfo{pages}{g6178}.
 \newblock
 
 

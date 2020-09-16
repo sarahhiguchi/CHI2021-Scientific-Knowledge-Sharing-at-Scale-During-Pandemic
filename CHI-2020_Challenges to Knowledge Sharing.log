@@ -1,25 +1,28 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.7)  16 SEP 2020 11:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  16 SEP 2020 12:29
 entering extended mode
-**"c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.tex"
-("c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/CHI-2020_Challenges to Knowledge Sharing.tex"
-LaTeX2e <2018-12-01>
-("c:/Users\onewe\Downloads\Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action\acmart.cls"
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/CHI-2020_Challenges to Knowledge Sharing.tex"
+(/Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/CHI-2020_Challenges to Knowledge Sharing.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (/Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/acmart.cls
 Document Class: acmart 2020/04/30 v1.71 Typesetting articles for the Association for Computing Machinery
-("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
- ("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex" ("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
-\XKV@toks=\toks14
-\XKV@tempa@toks=\toks15
- ("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\keyval.tex"))
-\XKV@depth=\count80
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count167
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) ("C:\Program Files\MiKTeX 2.9\tex/latex/xstring\xstring.sty" ("C:\Program Files\MiKTeX 2.9\tex/generic/xstring\xstring.tex"
-\integerpart=\count81
-\decimalpart=\count82
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count168
+\decimalpart=\count169
 )
 Package: xstring 2019/02/06 v1.83 String manipulations (CT)
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/iftex\iftex.sty"
-Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, and LuaTeX
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
 Package acmart Info: Not using screen mode on input line 73.
 Package acmart Info: Using breaking urls on hyphens on input line 81.
@@ -34,280 +37,275 @@ Package acmart Info: Not using authordraft mode on input line 156.
 Package acmart Info: Using authordraft mode on input line 165.
 Class acmart Info: Using format acmsmall, number 1 on input line 165.
 Class acmart Info: Using fontsize 10pt on input line 249.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/amscls\amsart.cls"
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsart.cls
 Document Class: amsart 2017/10/31 v2.20.4
-\linespacing=\dimen102
-\normalparindent=\dimen103
-\normaltopskip=\skip41
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
-Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip42
+\linespacing=\dimen134
+\normalparindent=\dimen135
+\normaltopskip=\skip47
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip48
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
- ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
-\ex@=\dimen104
-)) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+\@emptytoks=\toks17
+\ex@=\dimen136
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen105
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+\pmbraise@=\dimen137
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count83
-LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count84
-\leftroot@=\count85
-LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count86
-\DOTSCASE@=\count87
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
-\big@size=\dimen106
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count88
-\c@MaxMatrixCols=\count89
-\dotsspace@=\muskip10
-\c@parentequation=\count90
-\dspbrk@lvl=\count91
-\tag@help=\toks17
-\row@=\count92
-\column@=\count93
-\maxfields@=\count94
-\andhelp@=\toks18
-\eqnshift@=\dimen107
-\alignsep@=\dimen108
-\tagshift@=\dimen109
-\tagwidth@=\dimen110
-\totwidth@=\dimen111
-\lineht@=\dimen112
-\@envbody=\toks19
-\multlinegap=\skip43
-\multlinetaggap=\skip44
-\mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
+\inf@bad=\count170
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count171
+\leftroot@=\count172
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count173
+\DOTSCASE@=\count174
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen138
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count175
+\c@MaxMatrixCols=\count176
+\dotsspace@=\muskip16
+\c@parentequation=\count177
+\dspbrk@lvl=\count178
+\tag@help=\toks18
+\row@=\count179
+\column@=\count180
+\maxfields@=\count181
+\andhelp@=\toks19
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks20
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 398.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+LaTeX Font Info:    Trying to load font information for U+msa on input line 398.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
 \copyins=\insert199
-\abstractbox=\box29
-\listisep=\skip45
-\c@part=\count95
-\c@section=\count96
-\c@subsection=\count97
-\c@subsubsection=\count98
-\c@paragraph=\count99
-\c@subparagraph=\count100
-\c@figure=\count101
-\c@table=\count102
-\abovecaptionskip=\skip46
-\belowcaptionskip=\skip47
-\captionindent=\dimen113
-\thm@style=\toks21
-\thm@bodyfont=\toks22
-\thm@headfont=\toks23
-\thm@notefont=\toks24
-\thm@headpunct=\toks25
-\thm@preskip=\skip48
-\thm@postskip=\skip49
-\thm@headsep=\skip50
-\dth@everypar=\toks26
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype.sty"
-Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
-\MT@toks=\toks27
-\MT@count=\count103
+\abstractbox=\box47
+\listisep=\skip51
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip52
+\belowcaptionskip=\skip53
+\captionindent=\dimen145
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks27
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks28
+\MT@count=\count190
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen114
-LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
-\MT@listname@count=\count104
- ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype-pdftex.def"
-File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
+\MT@outer@kern=\dimen146
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count191
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 914.
 LaTeX Info: Redefining \lslig on input line 914.
-\MT@outer@space=\skip51
+\MT@outer@space=\skip57
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype.cfg"
-File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
-)) ("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count105
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen115
-\lightrulewidth=\dimen116
-\cmidrulewidth=\dimen117
-\belowrulesep=\dimen118
-\belowbottomsep=\dimen119
-\aboverulesep=\dimen120
-\abovetopsep=\dimen121
-\cmidrulesep=\dimen122
-\cmidrulekern=\dimen123
-\defaultaddspace=\dimen124
-\@cmidla=\count106
-\@cmidlb=\count107
-\@aboverulesep=\dimen125
-\@belowrulesep=\dimen126
-\@thisruleclass=\count108
-\@lastruleclass=\count109
-\@thisrulewidth=\dimen127
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\refcount.sty"
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
- ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-) ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)) ("C:\Program Files\MiKTeX 2.9\tex/latex/totpages\totpages.sty"
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count192
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen147
+\lightrulewidth=\dimen148
+\cmidrulewidth=\dimen149
+\belowrulesep=\dimen150
+\belowbottomsep=\dimen151
+\aboverulesep=\dimen152
+\abovetopsep=\dimen153
+\cmidrulesep=\dimen154
+\cmidrulekern=\dimen155
+\defaultaddspace=\dimen156
+\@cmidla=\count193
+\@cmidlb=\count194
+\@aboverulesep=\dimen157
+\@belowrulesep=\dimen158
+\@thisruleclass=\count195
+\@lastruleclass=\count196
+\@thisrulewidth=\dimen159
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/totpages/totpages.sty
 Package: totpages 2005/09/19 v2.00 Totpages Package (muewi)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-)) ("C:\Program Files\MiKTeX 2.9\tex/latex/environ\environ.sty"
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
- ("C:\Program Files\MiKTeX 2.9\tex/latex/trimspaces\trimspaces.sty"
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-)) ("C:\Program Files\MiKTeX 2.9\tex/latex/textcase\textcase.sty"
-Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip52
-\bibsep=\skip53
+\bibhang=\skip58
+\bibsep=\skip59
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count110
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
-Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
- ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
- ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
-Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
-Package pdftexcmds Info: LuaTeX not detected.
+\c@NAT@ctr=\count197
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-Package: xcolor-patch 2016/05/16 xcolor patch
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-Package hobsub Info: Skipping package `refcount' (already loaded).
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-) ("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-)
-\@linkdim=\dimen128
-\Hy@linkcounter=\count111
-\Hy@pagecounter=\count112
- ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
-File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+\@linkdim=\dimen160
+\Hy@linkcounter=\count198
+\Hy@pagecounter=\count266
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count113
- ("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4393.
-Package hyperref Info: Option `unicode' set `true' on input line 4393.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\puenc.def"
-File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count267
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4421.
+Package hyperref Info: Option `unicode' set `true' on input line 4421.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4519.
-Package hyperref Info: Link nesting OFF on input line 4524.
-Package hyperref Info: Hyper index ON on input line 4527.
-Package hyperref Info: Plain pages OFF on input line 4534.
-Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count114
- ("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
-\Urlmuskip=\muskip11
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count268
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen129
-\Fld@menulength=\count115
-\Field@Width=\dimen130
-\Fld@charsize=\dimen131
-Package hyperref Info: Hyper figures OFF on input line 6380.
-Package hyperref Info: Link nesting OFF on input line 6385.
-Package hyperref Info: Hyper index ON on input line 6388.
-Package hyperref Info: backreferencing OFF on input line 6395.
-Package hyperref Info: Link coloring OFF on input line 6400.
-Package hyperref Info: Link coloring with OCG OFF on input line 6405.
-Package hyperref Info: PDF/A mode OFF on input line 6410.
-LaTeX Info: Redefining \ref on input line 6450.
-LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count116
-\c@Item=\count117
-\c@Hfootnote=\count118
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen161
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count269
+\Field@Width=\dimen162
+\Fld@charsize=\dimen163
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count270
+\c@Item=\count271
+\c@Hfootnote=\count272
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
-File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
-\Fld@listcount=\count119
-\c@bookmark@seq@number=\count120
- ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-\Hy@SectionHShift=\skip54
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+\Fld@listcount=\count273
+\c@bookmark@seq@number=\count274
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip60
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen132
-\Gin@req@width=\dimen133
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -320,438 +318,294 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/draftwatermark\draftwatermark.sty"
-Package: draftwatermark 2020/06/29 2.2 Put a gray textual watermark on document pages
- ("C:\Program Files\MiKTeX 2.9\tex/latex/everypage\everypage.sty"
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
+Package: draftwatermark 2020/03/14 2.0 Put a gray textual watermark on document pages
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/everypage/everypage.sty
 Package: everypage 2007/06/20 1.1 Hooks to run on every page
-)) ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
-Package: geometry 2018/04/16 v5.8 Page Geometry
-\Gm@cnth=\count121
-\Gm@cntv=\count122
-\c@Gm@tempcnt=\count123
-\Gm@bindingoffset=\dimen134
-\Gm@wd@mp=\dimen135
-\Gm@odd@mp=\dimen136
-\Gm@even@mp=\dimen137
-\Gm@layoutwidth=\dimen138
-\Gm@layoutheight=\dimen139
-\Gm@layouthoffset=\dimen140
-\Gm@layoutvoffset=\dimen141
-\Gm@dimlist=\toks28
- ("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg")) ("C:\Program Files\MiKTeX 2.9\tex/latex/ncctools\manyfoot.sty"
-Package: manyfoot 2005/09/11 v1.10 Many Footnote Levels Package (NCC)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/ncctools\nccfoots.sty"
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
+\Gm@bindingoffset=\dimen166
+\Gm@wd@mp=\dimen167
+\Gm@odd@mp=\dimen168
+\Gm@even@mp=\dimen169
+\Gm@layoutwidth=\dimen170
+\Gm@layoutheight=\dimen171
+\Gm@layouthoffset=\dimen172
+\Gm@layoutvoffset=\dimen173
+\Gm@dimlist=\toks29
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/ncctools/manyfoot.sty
+Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/ncctools/nccfoots.sty
 Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 )
-\MFL@columnwidth=\dimen142
+\MFL@columnwidth=\dimen174
 )
-\footinsauthorsaddresses=\insert198
-\c@footnoteauthorsaddresses=\count124
-\footinscopyrightpermission=\insert197
-\c@footnotecopyrightpermission=\count125
- ("C:\Program Files\MiKTeX 2.9\tex/generic/pdftex\glyphtounicode.tex") ("C:\Program Files\MiKTeX 2.9\tex/latex/cmap\cmap.sty"
+\footinsauthorsaddresses=\insert252
+\c@footnoteauthorsaddresses=\count278
+\footinscopyrightpermission=\insert251
+\c@footnotecopyrightpermission=\count279
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pdftex/glyphtounicode.tex) (/usr/local/texlive/2020/texmf-dist/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
-File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)<<t1.cmap>>) ("C:\Program Files\MiKTeX 2.9\tex/latex/libertine\libertine.sty"
-Package: libertine 2019/02/27 (Bob Tennent) Supports Libertine and Biolinum fonts for all LaTeX engines.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\textcomp.sty"
-Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
-Package textcomp Info: Sub-encoding information:
-(textcomp)               5 = only ISO-Adobe without \textcurrency
-(textcomp)               4 = 5 + \texteuro
-(textcomp)               3 = 4 + \textohm
-(textcomp)               2 = 3 + \textestimated + \textcurrency
-(textcomp)               1 = TS1 - \textcircled - \t
-(textcomp)               0 = TS1 (full)
-(textcomp)             Font families with sub-encoding setting implement
-(textcomp)             only a restricted character set as indicated.
-(textcomp)             Family '?' is the default used for unknown fonts.
-(textcomp)             See the documentation for details.
-Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.def"
-File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-Now handling font encoding TS1 ...
-... processing UTF-8 mapping file for font encoding TS1
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
-File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
-   defining Unicode char U+00A2 (decimal 162)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00A4 (decimal 164)
-   defining Unicode char U+00A5 (decimal 165)
-   defining Unicode char U+00A6 (decimal 166)
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00A8 (decimal 168)
-   defining Unicode char U+00A9 (decimal 169)
-   defining Unicode char U+00AA (decimal 170)
-   defining Unicode char U+00AC (decimal 172)
-   defining Unicode char U+00AE (decimal 174)
-   defining Unicode char U+00AF (decimal 175)
-   defining Unicode char U+00B0 (decimal 176)
-   defining Unicode char U+00B1 (decimal 177)
-   defining Unicode char U+00B2 (decimal 178)
-   defining Unicode char U+00B3 (decimal 179)
-   defining Unicode char U+00B4 (decimal 180)
-   defining Unicode char U+00B5 (decimal 181)
-   defining Unicode char U+00B6 (decimal 182)
-   defining Unicode char U+00B7 (decimal 183)
-   defining Unicode char U+00B9 (decimal 185)
-   defining Unicode char U+00BA (decimal 186)
-   defining Unicode char U+00BC (decimal 188)
-   defining Unicode char U+00BD (decimal 189)
-   defining Unicode char U+00BE (decimal 190)
-   defining Unicode char U+00D7 (decimal 215)
-   defining Unicode char U+00F7 (decimal 247)
-   defining Unicode char U+0192 (decimal 402)
-   defining Unicode char U+02C7 (decimal 711)
-   defining Unicode char U+02D8 (decimal 728)
-   defining Unicode char U+02DD (decimal 733)
-   defining Unicode char U+0E3F (decimal 3647)
-   defining Unicode char U+2016 (decimal 8214)
-   defining Unicode char U+2020 (decimal 8224)
-   defining Unicode char U+2021 (decimal 8225)
-   defining Unicode char U+2022 (decimal 8226)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+203B (decimal 8251)
-   defining Unicode char U+203D (decimal 8253)
-   defining Unicode char U+2044 (decimal 8260)
-   defining Unicode char U+204E (decimal 8270)
-   defining Unicode char U+2052 (decimal 8274)
-   defining Unicode char U+20A1 (decimal 8353)
-   defining Unicode char U+20A4 (decimal 8356)
-   defining Unicode char U+20A6 (decimal 8358)
-   defining Unicode char U+20A9 (decimal 8361)
-   defining Unicode char U+20AB (decimal 8363)
-   defining Unicode char U+20AC (decimal 8364)
-   defining Unicode char U+20B1 (decimal 8369)
-   defining Unicode char U+2103 (decimal 8451)
-   defining Unicode char U+2116 (decimal 8470)
-   defining Unicode char U+2117 (decimal 8471)
-   defining Unicode char U+211E (decimal 8478)
-   defining Unicode char U+2120 (decimal 8480)
-   defining Unicode char U+2122 (decimal 8482)
-   defining Unicode char U+2126 (decimal 8486)
-   defining Unicode char U+2127 (decimal 8487)
-   defining Unicode char U+212E (decimal 8494)
-   defining Unicode char U+2190 (decimal 8592)
-   defining Unicode char U+2191 (decimal 8593)
-   defining Unicode char U+2192 (decimal 8594)
-   defining Unicode char U+2193 (decimal 8595)
-   defining Unicode char U+2329 (decimal 9001)
-   defining Unicode char U+232A (decimal 9002)
-   defining Unicode char U+2422 (decimal 9250)
-   defining Unicode char U+25E6 (decimal 9702)
-   defining Unicode char U+25EF (decimal 9711)
-   defining Unicode char U+266A (decimal 9834)
-   defining Unicode char U+FEFF (decimal 65279)
-))
-LaTeX Info: Redefining \oldstylenums on input line 334.
-Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
-Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
-Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
-Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
-Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
-Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
-Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
-Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
-Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
-Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
-Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
-Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
-Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
-Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
-Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
-Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
-Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
-Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
-Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
-Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
-Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
-Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
-Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
-Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
-Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
-Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
-Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
-Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
-Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
-Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
-Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
-Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
-Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
-Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
-Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
-Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
-Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
-Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
-Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
-Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
-Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
-Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
-Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
-Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
-Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
-Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
-Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
-Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
-Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
-Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
-Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
-Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
-Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
-Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
-Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
-Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
-Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
-Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
-Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
-Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
-Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/mweights\mweights.sty"
-Package: mweights 2017/03/30 (Bob Tennent) Support package for multiple-weight font packages. 
-LaTeX Info: Redefining \bfseries on input line 22.
-LaTeX Info: Redefining \mdseries on input line 30.
-LaTeX Info: Redefining \rmfamily on input line 38.
-LaTeX Info: Redefining \sffamily on input line 66.
-LaTeX Info: Redefining \ttfamily on input line 94.
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/fontaxes\fontaxes.sty"
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+<<t1.cmap>>) (/usr/local/texlive/2020/texmf-dist/tex/latex/libertine/libertine.sty
+Package: libertine 2020/03/26 (Bob Tennent) Supports Libertine and Biolinum fonts for all LaTeX engines.
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2014/03/23 v1.0d Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
 LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
 LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
 )
-LaTeX Info: Redefining \oldstylenums on input line 490.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/libertine\LinLibertine_I.tex")) ("C:\Program Files\MiKTeX 2.9\tex/latex/inconsolata\zi4.sty"
+LaTeX Info: Redefining \oldstylenums on input line 484.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/libertine/LinLibertine_I.tex)) (/usr/local/texlive/2020/texmf-dist/tex/latex/inconsolata/zi4.sty
 Package: zi4 2019/05/17 v1.12
  `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
-\zifour@ocount=\count126
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/newtx\newtxmath.sty"
-Package: newtxmath 2018/05/15 v1.553
- `newtxmath' v1.553, 2018/05/15 Math macros based originally on txfonts (msharpe) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\centernot.sty"
+\zifour@ocount=\count280
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/newtxmath.sty
+Package: newtxmath 2020/03/02 v1.625
+ `newtxmath' v1.625, 2020/03/02 Math macros based originally on txfonts (msharpe) (/usr/local/texlive/2020/texmf-dist/tex/latex/oberdiek/centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
-\tx@cntz=\count127
- ("C:\Program Files\MiKTeX 2.9\tex/generic/binhex\binhex.tex")
-\tx@Isdigit=\count128
-\tx@IsAlNum=\count129
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 171.
+\tx@cntz=\count281
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/kastrup/binhex.tex)
+\tx@Isdigit=\count282
+\tx@IsAlNum=\count283
+\tx@tA=\toks30
+\tx@tB=\toks31
+\tx@su=\read2
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 317.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/LinuxLibertineT-TLF/m/n on input line 171.
+(Font)                  OT1/cmr/m/n --> OT1/LinuxLibertineT-TLF/m/n on input line 317.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/m/n on input line 171.
+(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/m/n on input line 317.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/LinuxLibertineT-TLF/m/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 172.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 180.
+(Font)                  OT1/LinuxLibertineT-TLF/m/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 318.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 326.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/LinuxBiolinumT-TLF/m/n on input line 180.
+(Font)                  OT1/cmss/m/n --> T1/LinuxBiolinumT-TLF/m/n on input line 326.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/LinuxBiolinumT-TLF/m/n on input line 180.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 181.
+(Font)                  OT1/cmss/bx/n --> T1/LinuxBiolinumT-TLF/m/n on input line 326.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 327.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/LinuxLibertineT-TLF/m/it on input line 181.
+(Font)                  OT1/cmr/m/it --> OT1/LinuxLibertineT-TLF/m/it on input line 327.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/LinuxLibertineT-TLF/m/it on input line 181.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 182.
+(Font)                  OT1/cmr/bx/it --> OT1/LinuxLibertineT-TLF/m/it on input line 327.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 328.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 182.
+(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 328.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 182.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 184.
+(Font)                  OT1/cmtt/m/n --> T1/zi4/m/n on input line 328.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 330.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 184.
+(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 330.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 184.
+(Font)                  OT1/cmr/bx/n --> OT1/LinuxLibertineT-TLF/sb/n on input line 330.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/LinuxLibertineT-TLF/m/it --> OT1/LinuxLibertineT-TLF/sb/it on input line 185.
+(Font)                  OT1/LinuxLibertineT-TLF/m/it --> OT1/LinuxLibertineT-TLF/sb/it on input line 331.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/LinuxBiolinumT-TLF/m/n --> T1/LinuxBiolinumT-TLF/b/n on input line 186.
+(Font)                  T1/LinuxBiolinumT-TLF/m/n --> T1/LinuxBiolinumT-TLF/b/n on input line 332.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/zi4/m/n --> T1/zi4/b/n on input line 187.
-LaTeX Font Info:    Redeclaring symbol font `letters' on input line 199.
+(Font)                  T1/zi4/m/n --> T1/zi4/b/n on input line 333.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 350.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/nxlmi/m/it on input line 199.
+(Font)                  OML/cmm/m/it --> OML/nxlmi/m/it on input line 350.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/nxlmi/m/it on input line 199.
+(Font)                  OML/cmm/b/it --> OML/nxlmi/m/it on input line 350.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/nxlmi/m/it --> OML/nxlmi/b/it on input line 200.
+(Font)                  OML/nxlmi/m/it --> OML/nxlmi/b/it on input line 351.
 \symlettersA=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
-(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 261.
-LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 263.
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 476.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 478.
 Now handling font encoding LMS ...
 ... no UTF-8 mapping file for font encoding LMS
-LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 282.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 497.
 LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 282.
+(Font)              `symbols' in the math version `normal' on input line 497.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 282.
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 497.
 LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 282.
+(Font)              `symbols' in the math version `bold' on input line 497.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 282.
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 497.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 283.
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 498.
 \symAMSm=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
-(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 306.
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 521.
 \symsymbolsC=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
-(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 327.
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 542.
 Now handling font encoding LMX ...
 ... no UTF-8 mapping file for font encoding LMX
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 340.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 555.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 340.
+(Font)              `largesymbols' in the math version `normal' on input line 555.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 340.
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 555.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 340.
+(Font)              `largesymbols' in the math version `bold' on input line 555.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 340.
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 555.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 341.
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 556.
 \symlargesymbolsTXA=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
-(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 355.
-LaTeX Font Info:    Redeclaring math delimiter \lgroup on input line 548.
-LaTeX Font Info:    Redeclaring math delimiter \rgroup on input line 549.
-LaTeX Font Info:    Redeclaring math delimiter \lmoustache on input line 550.
-LaTeX Font Info:    Redeclaring math delimiter \rmoustache on input line 551.
-LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 557.
-LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 558.
-LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 559.
-LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 560.
-LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 561.
-LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 562.
-LaTeX Font Info:    Redeclaring math delimiter \langle on input line 563.
-LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 565.
-LaTeX Font Info:    Redeclaring math symbol \mid on input line 567.
-LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 569.
-LaTeX Font Info:    Redeclaring math delimiter \vert on input line 570.
-LaTeX Font Info:    Redeclaring math symbol \parallel on input line 571.
-LaTeX Font Info:    Redeclaring math delimiter \Arrowvert on input line 572.
-LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 573.
-LaTeX Font Info:    Redeclaring math delimiter \updownarrow on input line 575.
-LaTeX Font Info:    Redeclaring math delimiter \Updownarrow on input line 576.
-LaTeX Font Info:    Redeclaring math delimiter \lvert on input line 581.
-LaTeX Font Info:    Redeclaring math delimiter \rvert on input line 582.
-LaTeX Font Info:    Redeclaring math delimiter \lVert on input line 583.
-LaTeX Font Info:    Redeclaring math delimiter \rVert on input line 584.
-LaTeX Font Info:    Redeclaring math symbol \m@thbbch@rA on input line 1929.
-\ntx@numstart=\count130
-\ntx@UCstart=\count131
-\ntx@lcstart=\count132
-\ntx@tmpc=\count133
-\ntx@imath=\count134
-\ntx@jmath=\count135
-LaTeX Info: Redefining \not on input line 2322.
-LaTeX Info: Redefining \textsquare on input line 2352.
-LaTeX Info: Redefining \openbox on input line 2354.
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
-Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
- ("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
-Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen143
-\captionmargin@=\dimen144
-\captionwidth=\dimen145
-\caption@tempdima=\dimen146
-\caption@indent=\dimen147
-\caption@parindent=\dimen148
-\caption@hangindent=\dimen149
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 570.
+\tx@sbptoks=\toks32
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 792.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 793.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 794.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 795.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 796.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 797.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 798.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 800.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 804.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 805.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 876.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 877.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1940.
+\ntx@numstart=\count284
+\ntx@UCstart=\count285
+\ntx@lcstart=\count286
+\ntx@tmpc=\count287
+\ntx@imath=\count288
+\ntx@jmath=\count289
+LaTeX Info: Redefining \Bbbk on input line 2449.
+LaTeX Info: Redefining \not on input line 2598.
+LaTeX Info: Redefining \textsquare on input line 2628.
+LaTeX Info: Redefining \openbox on input line 2630.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen175
+\captionmargin@=\dimen176
+\captionwidth=\dimen177
+\caption@tempdima=\dimen178
+\caption@indent=\dimen179
+\caption@parindent=\dimen180
+\caption@hangindent=\dimen181
+Package caption Info: AMS or SMF document class detected.
 )
 Package caption Info: AMS or SMF document class.
-\c@caption@flags=\count136
-\c@ContinuedFloat=\count137
+\c@caption@flags=\count290
+\c@continuedfloat=\count291
 Package caption Info: hyperref package is loaded.
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count138
-\float@exts=\toks29
-\float@box=\box30
-\@float@everytoks=\toks30
-\@floatcapt=\box31
+\c@float@type=\count292
+\float@exts=\toks33
+\float@box=\box48
+\@float@everytoks=\toks34
+\@floatcapt=\box49
 )
-\@float@every@sidebar=\toks31
-\c@sidebar=\count139
-\fulltextwidth=\dimen150
-\@ACM@labelwidth=\dimen151
-\listisep=\skip55
-\num@authorgroups=\count140
-\num@authors=\count141
-\@ACM@badge@width=\skip56
-\@ACM@title@width=\skip57
-\@ACM@badge@skip=\skip58
+\@float@every@sidebar=\toks35
+\c@sidebar=\count293
+\fulltextwidth=\dimen182
+\@ACM@labelwidth=\dimen183
+\listisep=\skip61
+\num@authorgroups=\count294
+\num@authors=\count295
+\@ACM@badge@width=\skip62
+\@ACM@title@width=\skip63
+\@ACM@badge@skip=\skip64
 Class acmart Info: Printing CCS on input line 1469.
 Class acmart Info: Printing bibformat on input line 1469.
 Class acmart Info: Printing folios on input line 1474.
 Class acmart Info: Setting authorsperrow to 0 on input line 1479.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/comment\comment.sty"
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
  Excluding comment 'comment') Excluding comment 'CCSXML'
-\c@@concepts=\count142
-\mktitle@bx=\box32
-\@ACM@commabox=\box33
-\author@bx=\box34
-\author@bx@wd=\dimen152
-\author@bx@sep=\skip59
- ("C:\Program Files\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.sty"
+\c@@concepts=\count296
+\mktitle@bx=\box50
+\@ACM@commabox=\box51
+\author@bx=\box52
+\author@bx@wd=\dimen184
+\author@bx@sep=\skip65
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
-\f@nch@headwidth=\skip60
-\f@nch@O@elh=\skip61
-\f@nch@O@erh=\skip62
-\f@nch@O@olh=\skip63
-\f@nch@O@orh=\skip64
-\f@nch@O@elf=\skip65
-\f@nch@O@erf=\skip66
-\f@nch@O@olf=\skip67
-\f@nch@O@orf=\skip68
+\f@nch@headwidth=\skip66
+\f@nch@O@elh=\skip67
+\f@nch@O@erh=\skip68
+\f@nch@O@olh=\skip69
+\f@nch@O@orh=\skip70
+\f@nch@O@elf=\skip71
+\f@nch@O@erf=\skip72
+\f@nch@O@olf=\skip73
+\f@nch@O@orf=\skip74
 )
-\ACM@linecount@bx=\box35
-\ACM@linecount@bxht=\skip69
-\ACM@linecount=\count143
-\c@ACM@time@hours=\count144
-\c@ACM@time@minutes=\count145
-\@folio@wd=\dimen153
-\@folio@ht=\dimen154
-\@folio@voffset=\dimen155
+\ACM@linecount@bx=\box53
+\ACM@linecount@bxht=\skip75
+\ACM@linecount=\count297
+\c@ACM@time@hours=\count298
+\c@ACM@time@minutes=\count299
+\@folio@wd=\dimen185
+\@folio@ht=\dimen186
+\@folio@voffset=\dimen187
  Special comment 'acks'
-LaTeX Font Info:    Try loading font information for T1+LinuxLibertineT-TLF on input line 2956.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/libertine\t1linuxlibertinet-tlf.fd"
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF on input line 2956.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd
 File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 2956.
 )
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 87.
-\c@theorem=\count146
- Excluding comment 'screenonly' Include comment 'printonly' Include comment 'anonsuppress' ("c:/Users\onewe\Downloads\Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action\CHI-2020_Challenges to Knowledge Sharing.aux")
+\c@theorem=\count300
+ Excluding comment 'screenonly' Include comment 'printonly' Include comment 'anonsuppress' (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count301
+\l__pdf_internal_box=\box54
+) (/Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/CHI-2020_Challenges to Knowledge Sharing.aux
+
+LaTeX Warning: Label `Shortcomings of Scientific Knowledge Sharing on Twitter' multiply defined.
+
+)
 \openout1 = `"CHI-2020_Challenges to Knowledge Sharing.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 87.
-LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/newtx\omlnxlmi.fd"
+LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line 87.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
 LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 87.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/newtx\untxexa.fd"
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 87.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
 LaTeX Font Info:    ... okay on input line 87.
@@ -759,28 +613,22 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
-File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 87.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/newtx\lmsntxsy.fd"
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 87.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
 LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 87.
-LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/newtx\lmxntxexx.fd"
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 87.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
 LaTeX Font Info:    ... okay on input line 87.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 87.
-LaTeX Font Info:    Try loading font information for OT1+LinuxLibertineT-TLF on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/libertine\ot1linuxlibertinet-tlf.fd"
+LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 87.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/libertine/OT1LinuxLibertineT-TLF.fd
 File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
@@ -791,24 +639,24 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 5.5pt on input line 87.
 <<oml.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+LaTeX Font Info:    Trying to load font information for U+msa on input line 87.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+LaTeX Font Info:    Trying to load font information for U+msb on input line 87.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/newtx\untxmia.fd"
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 87.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/newtx\untxsym.fd"
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 87.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/newtx\untxsyc.fd"
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 87.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Info: Redefining \microtypecontext on input line 87.
@@ -818,6 +666,7 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 87.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -826,45 +675,41 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box36
+\AtBeginShipoutBox=\box55
 Package hyperref Info: Link coloring OFF on input line 87.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
- ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count147
+\c@section@level=\count302
 )
 LaTeX Info: Redefining \ref on input line 87.
 LaTeX Info: Redefining \pageref on input line 87.
 LaTeX Info: Redefining \nameref on input line 87.
- ("c:/Users\onewe\Downloads\Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action\CHI-2020_Challenges to Knowledge Sharing.out") ("c:/Users\onewe\Downloads\Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action\CHI-2020_Challenges to Knowledge Sharing.out")
+ (/Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/CHI-2020_Challenges to Knowledge Sharing.out) (/Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/CHI-2020_Challenges to Knowledge Sharing.out)
 \@outlinefile=\write4
 \openout4 = `"CHI-2020_Challenges to Knowledge Sharing.out"'.
 
- ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+ (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count148
-\scratchdimen=\dimen156
-\scratchbox=\box37
-\nofMPsegments=\count149
-\nofMParguments=\count150
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count151
-\MPscratchDim=\dimen157
-\MPnumerator=\count152
-\makeMPintoPDFobject=\count153
-\everyMPtoPDFconversion=\toks33
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
+\scratchcounter=\count303
+\scratchdimen=\dimen188
+\scratchbox=\box56
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen189
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks37
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -899,9 +744,9 @@ Package grfext Info: Graphics extension search list:
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count154
-\c@mv@boldtabular=\count155
-("C:\Program Files\MiKTeX 2.9\tex/latex/upquote\upquote.sty"
+\c@mv@tabular=\count309
+\c@mv@boldtabular=\count310
+(/usr/local/texlive/2020/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
 Package caption Info: Begin \AtBeginDocument code.
@@ -910,8 +755,8 @@ Package caption Info: End \AtBeginDocument code.
  Excluding 'CCSXML' comment.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 188.
-LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on input line 188.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/libertine\t1linuxbiolinumt-tlf.fd"
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 188.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
@@ -934,13 +779,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 6.1pt on input line 188.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-msa.cfg"
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-msb.cfg"
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for TS1+LinuxBiolinumT-TLF on input line 188.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/libertine\ts1linuxbiolinumt-tlf.fd"
+LaTeX Font Info:    Trying to load font information for TS1+LinuxBiolinumT-TLF on input line 188.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/libertine/TS1LinuxBiolinumT-TLF.fd
 File: TS1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxBiolinumT-TLF/m/n' will be
@@ -955,8 +800,8 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 188.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 6.2pt on input line 188.
-LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on input line 188.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/libertine\ts1linuxlibertinet-tlf.fd"
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 188.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
@@ -1009,7 +854,7 @@ Class acmart Warning: \vspace should only be used to provide space above/below s
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 202.
-[1.1{C:/Users/onewe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1.1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 203.
 
@@ -1052,9 +897,6 @@ Class acmart Warning: \vspace should only be used to provide space above/below s
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 268.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 282.
 
@@ -1083,7 +925,7 @@ Class acmart Warning: \vspace should only be used to provide space above/below s
 Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 356.
 
 [8.8]
-<Pictures/Airtable.png, id=354, 1374.13374pt x 491.8375pt>
+<Pictures/Airtable.png, id=361, 1374.13374pt x 491.8375pt>
 File: Pictures/Airtable.png Graphic file (type png)
 <use Pictures/Airtable.png>
 Package pdftex.def Info: Pictures/Airtable.png  used on input line 375.
@@ -1095,12 +937,12 @@ Class acmart Warning: \vspace should only be used to provide space above/below s
 
 Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 391.
 
-[9.9 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Airtable.png>]
+[9.9 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Airtable.png>]
 Overfull \hbox (19.42429pt too wide) in paragraph at lines 398--399
 []\T1/LinuxLibertineT-TLF/m/n/10 (-20) Difficulties in ef-fi-ciently in-form-ing re-search com-mu-nity about in-ap-pro-pri-ate re-sults/interpretations
  []
 
-<Pictures/kuppalli_tweet.png, id=370, 606.265pt x 493.845pt>
+<Pictures/kuppalli_tweet.png, id=377, 606.265pt x 493.845pt>
 File: Pictures/kuppalli_tweet.png Graphic file (type png)
 <use Pictures/kuppalli_tweet.png>
 Package pdftex.def Info: Pictures/kuppalli_tweet.png  used on input line 418.
@@ -1110,64 +952,43 @@ Underfull \vbox (badness 2073) has occurred while \output is active []
 
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 426.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 427.
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 426.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 427.
 
 [10.10]
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 433.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 434.
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 433.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 434.
 
-[11.11 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/kuppalli_tweet.png>]
-<Pictures/elisabeth_tweet.png, id=415, 542.025pt x 611.28375pt>
+[11.11 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/kuppalli_tweet.png>]
+<Pictures/elisabeth_tweet.png, id=421, 542.025pt x 611.28375pt>
 File: Pictures/elisabeth_tweet.png Graphic file (type png)
 <use Pictures/elisabeth_tweet.png>
 Package pdftex.def Info: Pictures/elisabeth_tweet.png  used on input line 454.
 (pdftex.def)             Requested size: 197.91124pt x 223.196pt.
-
-
-LaTeX Warning: File `Pictures/retraction watch tweet.png' not found on input line 465.
-
-<Pictures/retraction watch tweet.png, id=418, 481.8pt x 652.4375pt>
+<Pictures/retraction watch tweet.png, id=424, 481.8pt x 652.4375pt>
 File: Pictures/retraction watch tweet.png Graphic file (type png)
 <use Pictures/retraction watch tweet.png>
 Package pdftex.def Info: Pictures/retraction watch tweet.png  used on input line 465.
 (pdftex.def)             Requested size: 158.32657pt x 214.3991pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 465--465
-[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) watch tweet.png
- []
-
-
 Overfull \hbox (16.06279pt too wide) in paragraph at lines 465--465
-[] 
+[][] 
  []
 
-
-LaTeX Warning: File `Pictures/carlos tweet.png' not found on input line 468.
-
-<Pictures/carlos tweet.png, id=419, 480.79625pt x 371.3875pt>
+<Pictures/carlos tweet.png, id=425, 480.79625pt x 371.3875pt>
 File: Pictures/carlos tweet.png Graphic file (type png)
 <use Pictures/carlos tweet.png>
 Package pdftex.def Info: Pictures/carlos tweet.png  used on input line 468.
 (pdftex.def)             Requested size: 170.7161pt x 131.86897pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
-[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) tweet.png
- []
-
-
 Overfull \hbox (28.45232pt too wide) in paragraph at lines 468--469
-[] 
+[][] 
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 
 Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 481.
@@ -1177,77 +998,66 @@ Class acmart Warning: \vspace should only be used to provide space above/below s
 
 [12.12]
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 481.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 485.
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 481.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 485.
 
-[13.13 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/elisabeth_tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/retraction watch tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/carlos tweet.png>]
+[13.13 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/elisabeth_tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/retraction watch tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/carlos tweet.png>]
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 512.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 513.
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 512.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 513.
 
 [14.14]
-
-LaTeX Warning: File `Pictures/barabasi tweet.png' not found on input line 519.
-
-<Pictures/barabasi tweet.png, id=482, 480.79625pt x 281.05pt>
+<Pictures/barabasi tweet.png, id=489, 480.79625pt x 281.05pt>
 File: Pictures/barabasi tweet.png Graphic file (type png)
 <use Pictures/barabasi tweet.png>
 Package pdftex.def Info: Pictures/barabasi tweet.png  used on input line 519.
 (pdftex.def)             Requested size: 237.49591pt x 138.8307pt.
-<Pictures/philippe_tweet.png, id=485, 607.26875pt x 477.785pt>
+<Pictures/philippe_tweet.png, id=492, 607.26875pt x 477.785pt>
 File: Pictures/philippe_tweet.png Graphic file (type png)
 <use Pictures/philippe_tweet.png>
 Package pdftex.def Info: Pictures/philippe_tweet.png  used on input line 526.
 (pdftex.def)             Requested size: 237.49591pt x 186.85301pt.
-
-LaTeX Warning: File `Pictures/konig tweet.png' not found on input line 533.
-
-<Pictures/konig tweet.png, id=488, 598.235pt x 417.56pt>
+<Pictures/konig tweet.png, id=495, 598.235pt x 417.56pt>
 File: Pictures/konig tweet.png Graphic file (type png)
 <use Pictures/konig tweet.png>
 Package pdftex.def Info: Pictures/konig tweet.png  used on input line 533.
 (pdftex.def)             Requested size: 237.49591pt x 165.77223pt.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 544.
-
 
 Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 544.
 
-[15.15 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/barabasi tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/philippe_tweet.png>]
-Underfull \vbox (badness 4024) has occurred while \output is active []
+
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 544.
+
+[15.15 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/barabasi tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/philippe_tweet.png>]
+
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 561.
 
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 561.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 559.
+[16.16 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/konig tweet.png>]
 
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 559.
-
-[16.16 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/konig tweet.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 582.
 
 
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 581.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 581.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 582.
 
 [17.17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 606.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 612.
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 606.
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 612.
 
-[18.18] ("c:/Users\onewe\Downloads\Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action\CHI-2020_Challenges to Knowledge Sharing.bbl"
+[18.18] (/Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/CHI-2020_Challenges to Knowledge Sharing.bbl
 LaTeX Info: Redefining \tempurl on input line 126.
 LaTeX Info: Redefining \tempurl on input line 142.
 LaTeX Info: Redefining \tempurl on input line 158.
@@ -1357,572 +1167,424 @@ Class acmart Warning: \vspace should only be used to provide space above/below s
 Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1785.
 
 [24.24])
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/adeeba kamarulzaman tweet.png' not found on input line 656.
-
-<Pictures/Appendix_Tweets/adeeba kamarulzaman tweet.png, id=638, 450.68375pt x 321.2pt>
+<Pictures/Appendix_Tweets/adeeba kamarulzaman tweet.png, id=647, 450.68375pt x 321.2pt>
 File: Pictures/Appendix_Tweets/adeeba kamarulzaman tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/adeeba kamarulzaman tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/adeeba kamarulzaman tweet.png  used on input line 656.
+Package pdftex.def Info: Pictures/Appendix_Tweets/adeeba kamarulzaman tweet.png  used on input line 662.
 (pdftex.def)             Requested size: 197.91124pt x 141.04907pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/alice sim tweet.png' not found on input line 663.
-
-<Pictures/Appendix_Tweets/alice sim tweet.png, id=639, 449.68pt x 578.16pt>
+<Pictures/Appendix_Tweets/alice sim tweet.png, id=648, 449.68pt x 578.16pt>
 File: Pictures/Appendix_Tweets/alice sim tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/alice sim tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/alice sim tweet.png  used on input line 663.
+Package pdftex.def Info: Pictures/Appendix_Tweets/alice sim tweet.png  used on input line 669.
 (pdftex.def)             Requested size: 197.91124pt x 254.45294pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/andy slavitt tweet.png' not found on input line 670.
-
-<Pictures/Appendix_Tweets/andy slavitt tweet.png, id=640, 605.26125pt x 175.65625pt>
+<Pictures/Appendix_Tweets/andy slavitt tweet.png, id=649, 605.26125pt x 175.65625pt>
 File: Pictures/Appendix_Tweets/andy slavitt tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/andy slavitt tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/andy slavitt tweet.png  used on input line 670.
+Package pdftex.def Info: Pictures/Appendix_Tweets/andy slavitt tweet.png  used on input line 676.
 (pdftex.def)             Requested size: 197.91124pt x 57.43604pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/andy slavitt tweet2.png' not found on input line 677.
-
-<Pictures/Appendix_Tweets/andy slavitt tweet2.png, id=641, 598.235pt x 170.6375pt>
+<Pictures/Appendix_Tweets/andy slavitt tweet2.png, id=650, 598.235pt x 170.6375pt>
 File: Pictures/Appendix_Tweets/andy slavitt tweet2.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/andy slavitt tweet2.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/andy slavitt tweet2.png  used on input line 677.
+Package pdftex.def Info: Pictures/Appendix_Tweets/andy slavitt tweet2.png  used on input line 683.
 (pdftex.def)             Requested size: 197.91124pt x 56.45114pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/angela rasmussen tweet.png' not found on input line 684.
-
-<Pictures/Appendix_Tweets/angela rasmussen tweet.png, id=642, 483.8075pt x 306.14375pt>
+<Pictures/Appendix_Tweets/angela rasmussen tweet.png, id=651, 483.8075pt x 306.14375pt>
 File: Pictures/Appendix_Tweets/angela rasmussen tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/angela rasmussen tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/angela rasmussen tweet.png  used on input line 684.
+Package pdftex.def Info: Pictures/Appendix_Tweets/angela rasmussen tweet.png  used on input line 690.
 (pdftex.def)             Requested size: 197.91124pt x 125.23479pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/angela rasmussen tweet2.png' not found on input line 691.
-
-<Pictures/Appendix_Tweets/angela rasmussen tweet2.png, id=643, 480.79625pt x 254.9525pt>
+<Pictures/Appendix_Tweets/angela rasmussen tweet2.png, id=652, 480.79625pt x 254.9525pt>
 File: Pictures/Appendix_Tweets/angela rasmussen tweet2.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/angela rasmussen tweet2.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/angela rasmussen tweet2.png  used on input line 691.
+Package pdftex.def Info: Pictures/Appendix_Tweets/angela rasmussen tweet2.png  used on input line 697.
 (pdftex.def)             Requested size: 197.91124pt x 104.94745pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/angela rasmussen tweet3.png' not found on input line 698.
-
-<Pictures/Appendix_Tweets/angela rasmussen tweet3.png, id=644, 531.9875pt x 307.1475pt>
+<Pictures/Appendix_Tweets/angela rasmussen tweet3.png, id=653, 531.9875pt x 307.1475pt>
 File: Pictures/Appendix_Tweets/angela rasmussen tweet3.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/angela rasmussen tweet3.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/angela rasmussen tweet3.png  used on input line 698.
+Package pdftex.def Info: Pictures/Appendix_Tweets/angela rasmussen tweet3.png  used on input line 704.
 (pdftex.def)             Requested size: 197.91124pt x 114.26143pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/angela rasmussen tweet4.png' not found on input line 705.
-
-<Pictures/Appendix_Tweets/angela rasmussen tweet4.png, id=645, 541.02126pt x 280.04625pt>
+<Pictures/Appendix_Tweets/angela rasmussen tweet4.png, id=654, 541.02126pt x 280.04625pt>
 File: Pictures/Appendix_Tweets/angela rasmussen tweet4.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/angela rasmussen tweet4.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/angela rasmussen tweet4.png  used on input line 705.
+Package pdftex.def Info: Pictures/Appendix_Tweets/angela rasmussen tweet4.png  used on input line 711.
 (pdftex.def)             Requested size: 197.91124pt x 102.44463pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/austin wright tweet.png' not found on input line 712.
-
-<Pictures/Appendix_Tweets/austin wright tweet.png, id=646, 477.785pt x 237.88875pt>
+<Pictures/Appendix_Tweets/austin wright tweet.png, id=655, 477.785pt x 237.88875pt>
 File: Pictures/Appendix_Tweets/austin wright tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/austin wright tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/austin wright tweet.png  used on input line 712.
+Package pdftex.def Info: Pictures/Appendix_Tweets/austin wright tweet.png  used on input line 718.
 (pdftex.def)             Requested size: 197.91124pt x 98.53685pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/bhramar mukherjee tweet.png' not found on input line 719.
-
-<Pictures/Appendix_Tweets/bhramar mukherjee tweet.png, id=647, 483.8075pt x 189.70876pt>
+<Pictures/Appendix_Tweets/bhramar mukherjee tweet.png, id=656, 483.8075pt x 189.70876pt>
 File: Pictures/Appendix_Tweets/bhramar mukherjee tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/bhramar mukherjee tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/bhramar mukherjee tweet.png  used on input line 719.
+Package pdftex.def Info: Pictures/Appendix_Tweets/bhramar mukherjee tweet.png  used on input line 725.
 (pdftex.def)             Requested size: 197.91124pt x 77.6045pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/block and vries tweet.png' not found on input line 726.
-
-<Pictures/Appendix_Tweets/block and vries tweet.png, id=648, 603.25375pt x 334.24875pt>
+<Pictures/Appendix_Tweets/block and vries tweet.png, id=657, 603.25375pt x 334.24875pt>
 File: Pictures/Appendix_Tweets/block and vries tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/block and vries tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/block and vries tweet.png  used on input line 726.
+Package pdftex.def Info: Pictures/Appendix_Tweets/block and vries tweet.png  used on input line 732.
 (pdftex.def)             Requested size: 197.91124pt x 109.6547pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/c michael gibson tweet.png' not found on input line 733.
-
-<Pictures/Appendix_Tweets/c michael gibson tweet.png, id=649, 595.22375pt x 561.09625pt>
+<Pictures/Appendix_Tweets/c michael gibson tweet.png, id=658, 595.22375pt x 561.09625pt>
 File: Pictures/Appendix_Tweets/c michael gibson tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/c michael gibson tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/c michael gibson tweet.png  used on input line 733.
+Package pdftex.def Info: Pictures/Appendix_Tweets/c michael gibson tweet.png  used on input line 739.
 (pdftex.def)             Requested size: 197.91124pt x 186.55788pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/caitlin rivers tweet.png' not found on input line 740.
-
-<Pictures/Appendix_Tweets/caitlin rivers tweet.png, id=650, 598.235pt x 432.61626pt>
+<Pictures/Appendix_Tweets/caitlin rivers tweet.png, id=659, 598.235pt x 432.61626pt>
 File: Pictures/Appendix_Tweets/caitlin rivers tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/caitlin rivers tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/caitlin rivers tweet.png  used on input line 740.
+Package pdftex.def Info: Pictures/Appendix_Tweets/caitlin rivers tweet.png  used on input line 746.
 (pdftex.def)             Requested size: 197.91124pt x 143.12027pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/caitlin rivers tweet2.png' not found on input line 747.
-
-<Pictures/Appendix_Tweets/caitlin rivers tweet2.png, id=651, 451.6875pt x 238.8925pt>
+<Pictures/Appendix_Tweets/caitlin rivers tweet2.png, id=660, 451.6875pt x 238.8925pt>
 File: Pictures/Appendix_Tweets/caitlin rivers tweet2.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/caitlin rivers tweet2.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/caitlin rivers tweet2.png  used on input line 747.
+Package pdftex.def Info: Pictures/Appendix_Tweets/caitlin rivers tweet2.png  used on input line 753.
 (pdftex.def)             Requested size: 197.91124pt x 104.67558pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/caitlin rivers tweet2 contd.png' not found on input line 754.
-
-<Pictures/Appendix_Tweets/caitlin rivers tweet2 contd.png, id=652, 449.68pt x 345.29pt>
+<Pictures/Appendix_Tweets/caitlin rivers tweet2 contd.png, id=661, 449.68pt x 345.29pt>
 File: Pictures/Appendix_Tweets/caitlin rivers tweet2 contd.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/caitlin rivers tweet2 contd.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/caitlin rivers tweet2 contd.png  used on input line 754.
+Package pdftex.def Info: Pictures/Appendix_Tweets/caitlin rivers tweet2 contd.png  used on input line 760.
 (pdftex.def)             Requested size: 197.91124pt x 151.96494pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/caroline chen and arun divakaruni tweet.png' not found on input line 761.
-
-<Pictures/Appendix_Tweets/caroline chen and arun divakaruni tweet.png, id=653, 449.68pt x 366.36874pt>
+<Pictures/Appendix_Tweets/caroline chen and arun divakaruni tweet.png, id=662, 449.68pt x 366.36874pt>
 File: Pictures/Appendix_Tweets/caroline chen and arun divakaruni tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/caroline chen and arun divakaruni tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/caroline chen and arun divakaruni tweet.png  used on input line 761.
+Package pdftex.def Info: Pictures/Appendix_Tweets/caroline chen and arun divakaruni tweet.png  used on input line 767.
 (pdftex.def)             Requested size: 197.91124pt x 161.24187pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/charulatha banerjee tweet.png' not found on input line 768.
-
-<Pictures/Appendix_Tweets/charulatha banerjee tweet.png, id=654, 301.125pt x 525.965pt>
+<Pictures/Appendix_Tweets/charulatha banerjee tweet.png, id=663, 301.125pt x 525.965pt>
 File: Pictures/Appendix_Tweets/charulatha banerjee tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/charulatha banerjee tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/charulatha banerjee tweet.png  used on input line 768.
+Package pdftex.def Info: Pictures/Appendix_Tweets/charulatha banerjee tweet.png  used on input line 774.
 (pdftex.def)             Requested size: 197.91124pt x 345.70139pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/egon willighagen tweet.png' not found on input line 775.
-
-<Pictures/Appendix_Tweets/egon willighagen tweet.png, id=655, 454.69875pt x 608.2725pt>
+<Pictures/Appendix_Tweets/egon willighagen tweet.png, id=664, 454.69875pt x 608.2725pt>
 File: Pictures/Appendix_Tweets/egon willighagen tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/egon willighagen tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/egon willighagen tweet.png  used on input line 775.
+Package pdftex.def Info: Pictures/Appendix_Tweets/egon willighagen tweet.png  used on input line 781.
 (pdftex.def)             Requested size: 197.91124pt x 264.7542pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/eli perencevich tweet.png' not found on input line 782.
-
-<Pictures/Appendix_Tweets/eli perencevich tweet.png, id=656, 598.235pt x 417.56pt>
+<Pictures/Appendix_Tweets/eli perencevich tweet.png, id=665, 598.235pt x 417.56pt>
 File: Pictures/Appendix_Tweets/eli perencevich tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/eli perencevich tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/eli perencevich tweet.png  used on input line 782.
+Package pdftex.def Info: Pictures/Appendix_Tweets/eli perencevich tweet.png  used on input line 788.
 (pdftex.def)             Requested size: 197.91124pt x 138.13927pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/ellie murray tweet.png' not found on input line 789.
-
-<Pictures/Appendix_Tweets/ellie murray tweet.png, id=657, 481.8pt x 360.34625pt>
+<Pictures/Appendix_Tweets/ellie murray tweet.png, id=666, 481.8pt x 360.34625pt>
 File: Pictures/Appendix_Tweets/ellie murray tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/ellie murray tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/ellie murray tweet.png  used on input line 789.
+Package pdftex.def Info: Pictures/Appendix_Tweets/ellie murray tweet.png  used on input line 795.
 (pdftex.def)             Requested size: 197.91124pt x 148.01784pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/ellie murray tweet contd.png' not found on input line 796.
-
-<Pictures/Appendix_Tweets/ellie murray tweet contd.png, id=658, 301.125pt x 616.3025pt>
+<Pictures/Appendix_Tweets/ellie murray tweet contd.png, id=667, 301.125pt x 616.3025pt>
 File: Pictures/Appendix_Tweets/ellie murray tweet contd.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/ellie murray tweet contd.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/ellie murray tweet contd.png  used on input line 796.
+Package pdftex.def Info: Pictures/Appendix_Tweets/ellie murray tweet contd.png  used on input line 802.
 (pdftex.def)             Requested size: 197.91124pt x 405.07759pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/emma hodcroft tweet.png' not found on input line 803.
-
-<Pictures/Appendix_Tweets/emma hodcroft tweet.png, id=659, 448.67625pt x 351.3125pt>
+<Pictures/Appendix_Tweets/emma hodcroft tweet.png, id=668, 448.67625pt x 351.3125pt>
 File: Pictures/Appendix_Tweets/emma hodcroft tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/emma hodcroft tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/emma hodcroft tweet.png  used on input line 803.
+Package pdftex.def Info: Pictures/Appendix_Tweets/emma hodcroft tweet.png  used on input line 809.
 (pdftex.def)             Requested size: 197.91124pt x 154.96393pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/gail carson tweet.png' not found on input line 810.
-
-<Pictures/Appendix_Tweets/gail carson tweet.png, id=660, 450.68375pt x 550.055pt>
+<Pictures/Appendix_Tweets/gail carson tweet.png, id=669, 450.68375pt x 550.055pt>
 File: Pictures/Appendix_Tweets/gail carson tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/gail carson tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/gail carson tweet.png  used on input line 810.
+Package pdftex.def Info: Pictures/Appendix_Tweets/gail carson tweet.png  used on input line 816.
 (pdftex.def)             Requested size: 197.91124pt x 241.54652pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/geoffrey siwo tweet.png' not found on input line 817.
-
-<Pictures/Appendix_Tweets/geoffrey siwo tweet.png, id=661, 446.66875pt x 586.19pt>
+<Pictures/Appendix_Tweets/geoffrey siwo tweet.png, id=670, 446.66875pt x 586.19pt>
 File: Pictures/Appendix_Tweets/geoffrey siwo tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/geoffrey siwo tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/geoffrey siwo tweet.png  used on input line 817.
+Package pdftex.def Info: Pictures/Appendix_Tweets/geoffrey siwo tweet.png  used on input line 823.
 (pdftex.def)             Requested size: 197.91124pt x 259.73119pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/helen branswell tweet.png' not found on input line 824.
-
-<Pictures/Appendix_Tweets/helen branswell tweet.png, id=662, 447.6725pt x 263.98625pt>
+<Pictures/Appendix_Tweets/helen branswell tweet.png, id=671, 447.6725pt x 263.98625pt>
 File: Pictures/Appendix_Tweets/helen branswell tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/helen branswell tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/helen branswell tweet.png  used on input line 824.
+Package pdftex.def Info: Pictures/Appendix_Tweets/helen branswell tweet.png  used on input line 830.
 (pdftex.def)             Requested size: 197.91124pt x 116.70615pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/james todaro tweet.png' not found on input line 831.
-
-<Pictures/Appendix_Tweets/james todaro tweet.png, id=663, 450.68375pt x 435.6275pt>
+<Pictures/Appendix_Tweets/james todaro tweet.png, id=672, 450.68375pt x 435.6275pt>
 File: Pictures/Appendix_Tweets/james todaro tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/james todaro tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/james todaro tweet.png  used on input line 831.
+Package pdftex.def Info: Pictures/Appendix_Tweets/james todaro tweet.png  used on input line 837.
 (pdftex.def)             Requested size: 197.91124pt x 191.2978pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/jason pogue tweet.png' not found on input line 838.
-
-<Pictures/Appendix_Tweets/jason pogue tweet.png, id=664, 451.6875pt x 433.62pt>
+<Pictures/Appendix_Tweets/jason pogue tweet.png, id=673, 451.6875pt x 433.62pt>
 File: Pictures/Appendix_Tweets/jason pogue tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/jason pogue tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/jason pogue tweet.png  used on input line 838.
+Package pdftex.def Info: Pictures/Appendix_Tweets/jason pogue tweet.png  used on input line 844.
 (pdftex.def)             Requested size: 197.91124pt x 189.9994pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/jeremy howard tweet.png' not found on input line 845.
-
-<Pictures/Appendix_Tweets/jeremy howard tweet.png, id=665, 481.8pt x 635.37375pt>
+<Pictures/Appendix_Tweets/jeremy howard tweet.png, id=674, 481.8pt x 635.37375pt>
 File: Pictures/Appendix_Tweets/jeremy howard tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/jeremy howard tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/jeremy howard tweet.png  used on input line 845.
+Package pdftex.def Info: Pictures/Appendix_Tweets/jeremy howard tweet.png  used on input line 851.
 (pdftex.def)             Requested size: 197.91124pt x 260.98967pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/jose-luis jimenez tweet.png' not found on input line 852.
-
-<Pictures/Appendix_Tweets/jose-luis jimenez tweet.png, id=666, 478.78876pt x 619.31375pt>
+<Pictures/Appendix_Tweets/jose-luis jimenez tweet.png, id=675, 478.78876pt x 619.31375pt>
 File: Pictures/Appendix_Tweets/jose-luis jimenez tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/jose-luis jimenez tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/jose-luis jimenez tweet.png  used on input line 852.
+Package pdftex.def Info: Pictures/Appendix_Tweets/jose-luis jimenez tweet.png  used on input line 858.
 (pdftex.def)             Requested size: 197.91124pt x 255.99927pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/julie marcus tweet.png' not found on input line 859.
-
-<Pictures/Appendix_Tweets/julie marcus tweet.png, id=667, 452.69125pt x 263.98625pt>
+<Pictures/Appendix_Tweets/julie marcus tweet.png, id=676, 452.69125pt x 263.98625pt>
 File: Pictures/Appendix_Tweets/julie marcus tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/julie marcus tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/julie marcus tweet.png  used on input line 859.
+Package pdftex.def Info: Pictures/Appendix_Tweets/julie marcus tweet.png  used on input line 865.
 (pdftex.def)             Requested size: 197.91124pt x 115.4091pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/kareem carr tweet.png' not found on input line 866.
-
-<Pictures/Appendix_Tweets/kareem carr tweet.png, id=668, 481.8pt x 287.0725pt>
+<Pictures/Appendix_Tweets/kareem carr tweet.png, id=677, 481.8pt x 287.0725pt>
 File: Pictures/Appendix_Tweets/kareem carr tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/kareem carr tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/kareem carr tweet.png  used on input line 866.
+Package pdftex.def Info: Pictures/Appendix_Tweets/kareem carr tweet.png  used on input line 872.
 (pdftex.def)             Requested size: 197.91124pt x 117.9195pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/kareem carr tweet2.png' not found on input line 873.
-
-<Pictures/Appendix_Tweets/kareem carr tweet2.png, id=669, 604.2575pt x 363.3575pt>
+<Pictures/Appendix_Tweets/kareem carr tweet2.png, id=678, 604.2575pt x 363.3575pt>
 File: Pictures/Appendix_Tweets/kareem carr tweet2.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/kareem carr tweet2.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/kareem carr tweet2.png  used on input line 873.
+Package pdftex.def Info: Pictures/Appendix_Tweets/kareem carr tweet2.png  used on input line 879.
 (pdftex.def)             Requested size: 197.91124pt x 119.01015pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/kareem carr tweet2 contd.png' not found on input line 880.
-
-<Pictures/Appendix_Tweets/kareem carr tweet2 contd.png, id=670, 615.29875pt x 758.835pt>
+<Pictures/Appendix_Tweets/kareem carr tweet2 contd.png, id=679, 615.29875pt x 758.835pt>
 File: Pictures/Appendix_Tweets/kareem carr tweet2 contd.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/kareem carr tweet2 contd.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/kareem carr tweet2 contd.png  used on input line 880.
+Package pdftex.def Info: Pictures/Appendix_Tweets/kareem carr tweet2 contd.png  used on input line 886.
 (pdftex.def)             Requested size: 197.91124pt x 244.0711pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/krutika kuppalli tweet.png' not found on input line 887.
-
-<Pictures/Appendix_Tweets/krutika kuppalli tweet.png, id=671, 450.68375pt x 212.795pt>
+<Pictures/Appendix_Tweets/krutika kuppalli tweet.png, id=680, 450.68375pt x 212.795pt>
 File: Pictures/Appendix_Tweets/krutika kuppalli tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/krutika kuppalli tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/krutika kuppalli tweet.png  used on input line 887.
+Package pdftex.def Info: Pictures/Appendix_Tweets/krutika kuppalli tweet.png  used on input line 893.
 (pdftex.def)             Requested size: 197.91124pt x 93.44499pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/maria tapia tweet.png' not found on input line 894.
-
-<Pictures/Appendix_Tweets/maria tapia tweet.png, id=672, 596.2275pt x 145.54375pt>
+<Pictures/Appendix_Tweets/maria tapia tweet.png, id=681, 596.2275pt x 145.54375pt>
 File: Pictures/Appendix_Tweets/maria tapia tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/maria tapia tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/maria tapia tweet.png  used on input line 894.
+Package pdftex.def Info: Pictures/Appendix_Tweets/maria tapia tweet.png  used on input line 900.
 (pdftex.def)             Requested size: 197.91124pt x 48.31161pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/mariska leefland tweet.png' not found on input line 901.
-
-<Pictures/Appendix_Tweets/mariska leefland tweet.png, id=673, 447.6725pt x 447.6725pt>
+<Pictures/Appendix_Tweets/mariska leefland tweet.png, id=682, 447.6725pt x 447.6725pt>
 File: Pictures/Appendix_Tweets/mariska leefland tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/mariska leefland tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/mariska leefland tweet.png  used on input line 901.
+Package pdftex.def Info: Pictures/Appendix_Tweets/mariska leefland tweet.png  used on input line 907.
 (pdftex.def)             Requested size: 197.91124pt x 197.91234pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/matt le tissier tweet.png' not found on input line 908.
-
-<Pictures/Appendix_Tweets/matt le tissier tweet.png, id=674, 450.68375pt x 264.99pt>
+<Pictures/Appendix_Tweets/matt le tissier tweet.png, id=683, 450.68375pt x 264.99pt>
 File: Pictures/Appendix_Tweets/matt le tissier tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/matt le tissier tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/matt le tissier tweet.png  used on input line 908.
+Package pdftex.def Info: Pictures/Appendix_Tweets/matt le tissier tweet.png  used on input line 914.
 (pdftex.def)             Requested size: 197.91124pt x 116.36548pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/michelle kittleson tweet.png' not found on input line 915.
-
-<Pictures/Appendix_Tweets/michelle kittleson tweet.png, id=675, 451.6875pt x 351.3125pt>
+<Pictures/Appendix_Tweets/michelle kittleson tweet.png, id=684, 451.6875pt x 351.3125pt>
 File: Pictures/Appendix_Tweets/michelle kittleson tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/michelle kittleson tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/michelle kittleson tweet.png  used on input line 915.
+Package pdftex.def Info: Pictures/Appendix_Tweets/michelle kittleson tweet.png  used on input line 921.
 (pdftex.def)             Requested size: 197.91124pt x 153.9347pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/mike putman tweet.png' not found on input line 922.
-
-<Pictures/Appendix_Tweets/mike putman tweet.png, id=676, 448.67625pt x 600.2425pt>
+<Pictures/Appendix_Tweets/mike putman tweet.png, id=685, 448.67625pt x 600.2425pt>
 File: Pictures/Appendix_Tweets/mike putman tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/mike putman tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/mike putman tweet.png  used on input line 922.
+Package pdftex.def Info: Pictures/Appendix_Tweets/mike putman tweet.png  used on input line 928.
 (pdftex.def)             Requested size: 197.91124pt x 264.76695pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/natalie dean tweet.png' not found on input line 929.
-
-<Pictures/Appendix_Tweets/natalie dean tweet.png, id=677, 478.78876pt x 313.17pt>
+<Pictures/Appendix_Tweets/natalie dean tweet.png, id=686, 478.78876pt x 313.17pt>
 File: Pictures/Appendix_Tweets/natalie dean tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/natalie dean tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/natalie dean tweet.png  used on input line 929.
+Package pdftex.def Info: Pictures/Appendix_Tweets/natalie dean tweet.png  used on input line 935.
 (pdftex.def)             Requested size: 197.91124pt x 129.45181pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/neil ferguson tweet.png' not found on input line 936.
-
-<Pictures/Appendix_Tweets/neil ferguson tweet.png, id=678, 598.235pt x 239.89626pt>
+<Pictures/Appendix_Tweets/neil ferguson tweet.png, id=687, 598.235pt x 239.89626pt>
 File: Pictures/Appendix_Tweets/neil ferguson tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/neil ferguson tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/neil ferguson tweet.png  used on input line 936.
+Package pdftex.def Info: Pictures/Appendix_Tweets/neil ferguson tweet.png  used on input line 942.
 (pdftex.def)             Requested size: 197.91124pt x 79.36366pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/revera tweet.png' not found on input line 943.
-
-<Pictures/Appendix_Tweets/revera tweet.png, id=679, 599.23875pt x 385.44pt>
+<Pictures/Appendix_Tweets/revera tweet.png, id=688, 599.23875pt x 385.44pt>
 File: Pictures/Appendix_Tweets/revera tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/revera tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/revera tweet.png  used on input line 943.
+Package pdftex.def Info: Pictures/Appendix_Tweets/revera tweet.png  used on input line 949.
 (pdftex.def)             Requested size: 197.91124pt x 127.29556pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/roberto rocha tweet.png' not found on input line 950.
-
-<Pictures/Appendix_Tweets/roberto rocha tweet.png, id=680, 301.125pt x 471.7625pt>
+<Pictures/Appendix_Tweets/roberto rocha tweet.png, id=689, 301.125pt x 471.7625pt>
 File: Pictures/Appendix_Tweets/roberto rocha tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/roberto rocha tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/roberto rocha tweet.png  used on input line 950.
+Package pdftex.def Info: Pictures/Appendix_Tweets/roberto rocha tweet.png  used on input line 956.
 (pdftex.def)             Requested size: 197.91124pt x 310.07567pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/saskia popescu tweet.png' not found on input line 957.
-
-<Pictures/Appendix_Tweets/saskia popescu tweet.png, id=681, 448.67625pt x 263.98625pt>
+<Pictures/Appendix_Tweets/saskia popescu tweet.png, id=690, 448.67625pt x 263.98625pt>
 File: Pictures/Appendix_Tweets/saskia popescu tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/saskia popescu tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/saskia popescu tweet.png  used on input line 957.
+Package pdftex.def Info: Pictures/Appendix_Tweets/saskia popescu tweet.png  used on input line 963.
 (pdftex.def)             Requested size: 197.91124pt x 116.44432pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/saskia popescu tweet2.png' not found on input line 964.
-
-<Pictures/Appendix_Tweets/saskia popescu tweet2.png, id=682, 449.68pt x 264.99pt>
+<Pictures/Appendix_Tweets/saskia popescu tweet2.png, id=691, 449.68pt x 264.99pt>
 File: Pictures/Appendix_Tweets/saskia popescu tweet2.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/saskia popescu tweet2.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/saskia popescu tweet2.png  used on input line 964.
+Package pdftex.def Info: Pictures/Appendix_Tweets/saskia popescu tweet2.png  used on input line 970.
 (pdftex.def)             Requested size: 197.91124pt x 116.62425pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/saskia popescu tweet2 contd.png' not found on input line 971.
-
-<Pictures/Appendix_Tweets/saskia popescu tweet2 contd.png, id=683, 532.99126pt x 311.1625pt>
+<Pictures/Appendix_Tweets/saskia popescu tweet2 contd.png, id=692, 532.99126pt x 311.1625pt>
 File: Pictures/Appendix_Tweets/saskia popescu tweet2 contd.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/saskia popescu tweet2 contd.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/saskia popescu tweet2 contd.png  used on input line 971.
+Package pdftex.def Info: Pictures/Appendix_Tweets/saskia popescu tweet2 contd.png  used on input line 977.
 (pdftex.def)             Requested size: 197.91124pt x 115.5414pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/soragni lab tweet.png' not found on input line 978.
-
-<Pictures/Appendix_Tweets/soragni lab tweet.png, id=684, 538.01pt x 587.19376pt>
+<Pictures/Appendix_Tweets/soragni lab tweet.png, id=693, 538.01pt x 587.19376pt>
 File: Pictures/Appendix_Tweets/soragni lab tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/soragni lab tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/soragni lab tweet.png  used on input line 978.
+Package pdftex.def Info: Pictures/Appendix_Tweets/soragni lab tweet.png  used on input line 984.
 (pdftex.def)             Requested size: 197.91124pt x 216.0039pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/steven nono tweet.png' not found on input line 985.
-
-<Pictures/Appendix_Tweets/steven nono tweet.png, id=685, 600.2425pt x 149.55875pt>
+<Pictures/Appendix_Tweets/steven nono tweet.png, id=694, 600.2425pt x 149.55875pt>
 File: Pictures/Appendix_Tweets/steven nono tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/steven nono tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/steven nono tweet.png  used on input line 985.
+Package pdftex.def Info: Pictures/Appendix_Tweets/steven nono tweet.png  used on input line 991.
 (pdftex.def)             Requested size: 197.91124pt x 49.31117pt.
-
-LaTeX Warning: File `Pictures/Appendix_Tweets/trevor bedford tweet.png' not found on input line 992.
-
-<Pictures/Appendix_Tweets/trevor bedford tweet.png, id=686, 482.80376pt x 256.96pt>
+<Pictures/Appendix_Tweets/trevor bedford tweet.png, id=695, 482.80376pt x 256.96pt>
 File: Pictures/Appendix_Tweets/trevor bedford tweet.png Graphic file (type png)
 <use Pictures/Appendix_Tweets/trevor bedford tweet.png>
-Package pdftex.def Info: Pictures/Appendix_Tweets/trevor bedford tweet.png  used on input line 992.
+Package pdftex.def Info: Pictures/Appendix_Tweets/trevor bedford tweet.png  used on input line 998.
 (pdftex.def)             Requested size: 197.91124pt x 105.33075pt.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[25.25 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/adeeba kamarulzaman tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[25.25 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/adeeba kamarulzaman tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[26.26 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/alice sim tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/andy slavitt tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/andy slavitt tweet2.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[26.26 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/alice sim tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/andy slavitt tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/andy slavitt tweet2.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[27.27 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/angela rasmussen tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/angela rasmussen tweet2.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/angela rasmussen tweet3.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[27.27 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/angela rasmussen tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/angela rasmussen tweet2.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/angela rasmussen tweet3.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[28.28 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/angela rasmussen tweet4.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/austin wright tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/bhramar mukherjee tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/block and vries tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[28.28 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/angela rasmussen tweet4.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/austin wright tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/bhramar mukherjee tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/block and vries tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[29.29 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/c michael gibson tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/caitlin rivers tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/caitlin rivers tweet2.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[29.29 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/c michael gibson tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/caitlin rivers tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/caitlin rivers tweet2.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[30.30 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/caitlin rivers tweet2 contd.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/caroline chen and arun divakaruni tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[30.30 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/caitlin rivers tweet2 contd.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/caroline chen and arun divakaruni tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[31.31 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/charulatha banerjee tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[31.31 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/charulatha banerjee tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[32.32 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/egon willighagen tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/eli perencevich tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[32.32 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/egon willighagen tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/eli perencevich tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[33.33 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/ellie murray tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[33.33 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/ellie murray tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[34.34 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/ellie murray tweet contd.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[34.34 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/ellie murray tweet contd.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[35.35 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/emma hodcroft tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/gail carson tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[35.35 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/emma hodcroft tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/gail carson tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[36.36 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/geoffrey siwo tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/helen branswell tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[36.36 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/geoffrey siwo tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/helen branswell tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[37.37 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/james todaro tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/jason pogue tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[37.37 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/james todaro tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/jason pogue tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[38.38 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/jeremy howard tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[38.38 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/jeremy howard tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/jose-luis jimenez tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[39.39 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/jose-luis jimenez tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/julie marcus tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[39.39 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/julie marcus tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/kareem carr tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/kareem carr tweet2.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[40.40 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/kareem carr tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/kareem carr tweet2.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/kareem carr tweet2 contd.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[40.40 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/kareem carr tweet2 contd.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/krutika kuppalli tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/maria tapia tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[41.41 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/krutika kuppalli tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/maria tapia tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/mariska leefland tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[41.41 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/mariska leefland tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/matt le tissier tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/michelle kittleson tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[42.42 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/matt le tissier tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/michelle kittleson tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[42.42 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/mike putman tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/natalie dean tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/neil ferguson tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[43.43 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/mike putman tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/natalie dean tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/neil ferguson tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[43.43 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/revera tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/roberto rocha tweet.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[44.44 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/revera tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/roberto rocha tweet.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
+[44.44 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/saskia popescu tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/saskia popescu tweet2.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/saskia popescu tweet2 contd.png>]
 
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
 
-[45.45 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/saskia popescu tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/saskia popescu tweet2.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/saskia popescu tweet2 contd.png>]
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1005.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 999.
-
-[46.46 <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/soragni lab tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/steven nono tweet.png> <c:/Users/onewe/Downloads/Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action/Pictures/Appendix_Tweets/trevor bedford tweet.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 999.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 999.
- ("c:/Users\onewe\Downloads\Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action\CHI-2020_Challenges to Knowledge Sharing.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 999.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 999.
+[45.45 </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/soragni lab tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/steven nono tweet.png> </Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/Pictures/Appendix_Tweets/trevor bedford tweet.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1005.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1005.
+ (/Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/CHI-2020_Challenges to Knowledge Sharing.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1005.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1005.
 Package rerunfilecheck Info: File `"CHI-2020_Challenges to Knowledge Sharing".out' has not changed.
-(rerunfilecheck)             Checksum: 78C1EE9C03549A2351E5B629B8179D50;6105.
+(rerunfilecheck)             Checksum: D95D34B9F96754098D0BF20EFCB9BB4E;6455.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 19691 strings out of 492895
- 317209 string characters out of 3133480
- 451089 words of memory out of 3000000
- 22209 multiletter control sequences out of 15000+200000
- 229259 words of font info for 537 fonts, out of 3000000 for 9000
+ 20203 strings out of 480608
+ 328827 string characters out of 5903631
+ 626782 words of memory out of 5000000
+ 34664 multiletter control sequences out of 15000+600000
+ 757183 words of font info for 533 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 60i,16n,94p,1763b,878s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_afusau.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumTI.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/txfonts/rtxmi.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/newtx/txsys.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/newtx/zxlri.pfb>
-Output written on "c:/Users\onewe\Downloads\Scientific Knowledge Sharing at Scale During Pandemic - A Call to Action\CHI-2020_Challenges to Knowledge Sharing.pdf" (46 pages, 12597328 bytes).
+ 63i,16n,100p,1763b,877s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_afusau.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
+Output written on "/Users/sarahhiguchi-crowell/Desktop/CHI2021-Scientific-Knowledge-Sharing-at-Scale-During-Pandemic/CHI-2020_Challenges to Knowledge Sharing.pdf" (45 pages, 12478985 bytes).
 PDF statistics:
- 988 PDF objects out of 1000 (max. 8388607)
+ 991 PDF objects out of 1000 (max. 8388607)
+ 793 compressed objects within 8 object streams
  266 named destinations out of 1000 (max. 500000)
- 68586 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 68594 words of extra memory for PDF output out of 74296 (max. 10000000)
 
